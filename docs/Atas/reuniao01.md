@@ -66,8 +66,10 @@ Ficou decidido na reunião, que as atividades individuais seguiriam o que está 
 
 ## Histórico de Versões
 
-| <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
-| :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
-| 04/09/2023 | `1.0`  | Criação da ata de reunião | [Igor Penha](https://github.com/igorpenhaa)  | 05/09/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
+##  Histórico de Versão
+
+|  Versão  |   Data da alteração  |   Alteração  |  Responsável  |  Revisor  | Data de revisão |
+| :------: | :------------------: | :-----------: | :--------------: | :--------: | :-----------------: |
+| `1.0` | 05/09/2023 | Criação da 1ª ata | [Igor Penha](https://github.com/igorpenhaa) | [Rafael Bosi](https://github.com/StrangeUnit28) | 05/09/2023 |
 
 </div>
