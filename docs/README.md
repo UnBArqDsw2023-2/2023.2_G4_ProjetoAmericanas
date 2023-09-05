@@ -1,22 +1,22 @@
 # 2023.2_G4_ProjetoAmericanas
 
-# Nome do Projeto
 **Código da Disciplina**: FGA0208<br>
 **Número do Grupo**: 04<br>
 
 ## Alunos
-| Matrícula | Nome | Github |
-|---|---|---|
-| 19/0103302 | Bernardo Chaves Pissutti | [berssutti](https://github.com/berssutti) |
-| 21/1039288 | Bruno Campos Ribeiro | [BrunoRiibeiro](https://github.com/BrunoRiibeiro) |
-| 21/1039297 | Bruno Martins Valério Bomfim | [gitbmvb](https://github.com/gitbmvb) |
-| 18/0042041 | Gustavo Barbosa de Oliveira | [brbsg](https://github.com/brbsg) |
-| 21/1029352 | Igor E Silva Penha | [igorpenhaa](https://github.com/igorpenhaa) |
-| 21/1029441 | Lucas Gobbi Bergholz | [LucasBergholz](https://github.com/LucasBergholz) |
-| 18/0066382 | Marcos Felipe de Almeida Souza | [marofelipe](https://github.com/marofelipe) |
-| 17/0020291 | Paulo Henrique Almeida da Silva | [owhenrique](https://github.com/owhenrique) |
-| 21/1029559 | Rafael Brito Bosi Rodrigues | [StrangeUnit28](https://github.com/StrangeUnit28) |
-| 20/0028677 | Vitor Manoel Aquino de Brito | [vitormanoel17](https://github.com/vitormanoel17) |
+| Foto | Matrícula | Nome | Github |
+|---|---|---|---|
+| <img src="https://avatars.githubusercontent.com/u/57421498?v=4" width="100px" alt="Foto de Bernardo Chaves Pissutti"> | 19/0103302 | Bernardo Chaves Pissutti | [berssutti](https://github.com/berssutti) |
+| <img src="https://avatars.githubusercontent.com/u/87769920?v=4" width="100px" alt="Foto de Bruno Campos Ribeiro"> | 21/1039288 | Bruno Campos Ribeiro | [BrunoRiibeiro](https://github.com/BrunoRiibeiro) |
+| <img src="https://avatars.githubusercontent.com/u/30751876?v=4" width="100px" alt="Foto de Bruno Martins Valério Bomfim"> | 21/1039297 | Bruno Martins Valério Bomfim | [gitbmvb](https://github.com/gitbmvb) |
+| <img src="https://avatars.githubusercontent.com/u/56006361?v=4" width="100px" alt="Foto de Gustavo Barbosa de Oliveira"> | 18/0042041 | Gustavo Barbosa de Oliveira | [brbsg](https://github.com/brbsg) |
+| <img src="https://avatars.githubusercontent.com/u/98900627?v=4" width="100px" alt="Foto de Igor E Silva Penha"> | 21/1029352 | Igor E Silva Penha | [igorpenhaa](https://github.com/igorpenhaa) |
+| <img src="https://avatars.githubusercontent.com/u/99743571?v=4" width="100px" alt="Foto de Lucas Gobbi Bergholz"> | 21/1029441 | Lucas Gobbi Bergholz | [LucasBergholz](https://github.com/LucasBergholz) |
+| <img src="https://avatars.githubusercontent.com/u/40834597?v=4" width="100px" alt="Foto de Marcos Felipe de Almeida Souza"> | 18/0066382 | Marcos Felipe de Almeida Souza | [marofelipe](https://github.com/marofelipe) |
+| <img src="https://avatars.githubusercontent.com/u/42396782?v=4" width="100px" alt="Foto de Paulo Henrique Almeida da Silva"> | 17/0020291 | Paulo Henrique Almeida da Silva | [owhenrique](https://github.com/owhenrique) |
+| <img src="https://avatars.githubusercontent.com/u/97995709?v=4" width="100px" alt="Foto de Rafael Brito Bosi Rodrigues"> | 21/1029559 | Rafael Brito Bosi Rodrigues | [StrangeUnit28](https://github.com/StrangeUnit28) |
+| <img src="https://avatars.githubusercontent.com/u/74791849?v=4" width="100px" alt="Foto de Vitor Manoel Aquino de Brito"> | 20/0028677 | Vitor Manoel Aquino de Brito | [vitormanoel17](https://github.com/vitormanoel17) |
+
 
 ## Sobre 
 Contextualize, usando referências, links, e outros materiais como fontes.
