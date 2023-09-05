@@ -5,10 +5,18 @@
 **Número do Grupo**: 04<br>
 
 ## Alunos
-| Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| Matrícula | Nome | Github |
+|---|---|---|
+| 19/0103302 | Bernardo Chaves Pissutti | [berssutti](https://github.com/berssutti) |
+| 21/1039288 | Bruno Campos Ribeiro | [BrunoRiibeiro](https://github.com/BrunoRiibeiro) |
+| 21/1039297 | Bruno Martins Valério Bomfim | [gitbmvb](https://github.com/gitbmvb) |
+| 18/0042041 | Gustavo Barbosa de Oliveira | [brbsg](https://github.com/brbsg) |
+| 21/1029352 | Igor E Silva Penha | [igorpenhaa](https://github.com/igorpenhaa) |
+| 21/1029441 | Lucas Gobbi Bergholz | [LucasBergholz](https://github.com/LucasBergholz) |
+| 18/0066382 | Marcos Felipe de Almeida Souza | [marofelipe](https://github.com/marofelipe) |
+| 17/0020291 | Paulo Henrique Almeida da Silva | [owhenrique](https://github.com/owhenrique) |
+| 21/1029559 | Rafael Brito Bosi Rodrigues | [StrangeUnit28](https://github.com/StrangeUnit28) |
+| 20/0028677 | Vitor Manoel Aquino de Brito | [vitormanoel17](https://github.com/vitormanoel17) |
 
 ## Sobre 
 Contextualize, usando referências, links, e outros materiais como fontes.
