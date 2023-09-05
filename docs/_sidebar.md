@@ -8,6 +8,13 @@
     - [1.1. Módulo Projeto Não Orientado a Abordagens Específicas](Base/1.1.AbordagemNaoEspecifica.md)
     - [1.2. Módulo Processos/Metodologias/Abordagens](Base/1.2.ProcessosMetodologiasAbordagens.md)
     - [1.3. Participações - Base](Base/1.3.ParticipacoesBase.md)
+    - [Design Sprint](Base/DesignSprint.md)
+    - [5W2H](Base/5W2H.md)
+    - [Brainstorming](Base/Brainstorming.md)
+    - [Léxicos](Base/Lexicos.md)
+    - [Mapa Mental](Base/MapaMental.md)
+    - [Rich Picture](Base/RichPicture.md)
+    - [Storyboard](Base/StoryBoard.md)
 
 - **Modelagem**
   - [2. Desenho de Software (Modelagem)](Modelagem/2.Modelagem.md)
