@@ -10,7 +10,7 @@ Esse documento visa registrar o acontecimento da 1ª reunião do grupo 4,registr
 
 | <p align="center">Alunos presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
 | :--------: | :--------: | :--------: | :--------: |
-| Bernado Pissutti, Bruno Ribeiro, Bruno Bomfim, Gustavo Oliveira, Igor Penha,</br> Lucas Gobbi, Marcos Souza, Paulo da Silva, Rafael Bosi e Vitor Brito| 04/09/2023 | 21:06 - 21:32 | Plataforma Teams |
+| Bernado Pissutti, Bruno Ribeiro, Bruno Bomfim, Gustavo Oliveira,</br> Igor Penha, Lucas Gobbi, Marcos Souza, </br>Paulo da Silva, Rafael Bosi e Vitor Brito| 04/09/2023 | 21:06 - 21:32 | Plataforma Teams |
 
 <div style="text-align: center">
 <p> <b>Tabela 1</b>: Dados da reunião (PENHA, Igor. 2023). </p>
@@ -41,7 +41,7 @@ Ficou decidido na reunião, que as atividades individuais seguiriam o que está 
 | Rich Picture | Paulo da Silva e Vitor Brito |  |
 | Léxico | Bruno Ribeiro e Bruno Bomfim |  |
 | Brainstorm | Gustavo Oliveira e Rafael Bosi |  |
-| Modelagem BPMN | Bernado Pissutti, Gustavo Oliveira, Paulo da Silva e Rafael Bosi |  |
+| Modelagem BPMN | Bernado Pissutti, Gustavo Oliveira,</br> Paulo da Silva e Rafael Bosi |  |
 | Participações - Base | Bruno Bomfim |  |
 
 
