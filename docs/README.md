@@ -50,3 +50,8 @@ Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados
 
 ## Informações Complementares 
 Quaisquer outras informações adicionais podem ser descritas nessa seção.
+
+## Histórico de Versão
+|  Versão  | Data da alteração | Alteração | Responsável | Revisor | Data de revisão |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 1.0 | 05/09 | Criação do documento | Bruno Martins | Lucas Gobbi | 06/09 |

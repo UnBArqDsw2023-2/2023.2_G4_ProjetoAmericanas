@@ -11,4 +11,4 @@ Este repositório é destinado ao armazenamento dos artefatos e atividades do Pr
 ## Histórico de Versão
 |  Versão  | Data da alteração | Alteração | Responsável | Revisor | Data de revisão |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1.0 | 05/09 | Criação do documento | Bruno Martins |  | dia/mes |
+| 1.0 | 05/09 | Criação do documento | Bruno Martins | Lucas Gobbi | 06/09 |
