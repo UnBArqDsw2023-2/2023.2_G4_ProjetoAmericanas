@@ -4,7 +4,7 @@
 
 ## 2. Participantes
 - Bernardo Chaves Pissutti
-- Marcos Felipe de Almeida Souza -->
+- Marcos Felipe de Almeida Souza
 
 ## 3. Mapa Mental
 
