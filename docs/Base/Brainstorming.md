@@ -26,7 +26,6 @@
 - **SOBRENOME, Nome; SOBRENOME, Nome**. Descrição. Disponível em [link](link). 
 
 ## Histórico de Versão
-
 |  Versão  | Data da alteração | Alteração | Responsável | Revisor | Data de revisão |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1.0 | 05/09 | Criação do documento | Bruno Martins |  | dia/mes |

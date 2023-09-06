@@ -17,7 +17,7 @@
     - [Mapa Mental](Base/MapaMental.md)
     - [Rich Picture](Base/RichPicture.md)
     - [Storyboard](Base/StoryBoard.md)
-
+<!-- 
 - **Modelagem**
   - [2. Desenho de Software (Modelagem)](Modelagem/2.Modelagem.md)
     - [2.1. Módulo Projeto Orientado a Abordagens Tradicionais](Modelagem/2.1.ModelagemTradicional.md)
@@ -33,4 +33,4 @@
   - [4. Desenho de Software (Arquitetura & Reutilização de Software)](ArquiteturaReutilizacao/4.ArquiteturaReutilizacao.md)
     - [4.1. Módulo Estilos e Padrões Arquiteturais](ArquiteturaReutilizacao/4.1.PadroesArquiteturais.md)
     - [4.2. Módulo Reutilização de Software](ArquiteturaReutilizacao/4.2.ReutilizacaoDeSoftware.md)
-    - [4.3. Participações - Arquitetura & Reutilização de Software](ArquiteturaReutilizacao/4.3.ParticipacoesArqReutilizacao.md)
+    - [4.3. Participações - Arquitetura & Reutilização de Software](ArquiteturaReutilizacao/4.3.ParticipacoesArqReutilizacao.md) -->
