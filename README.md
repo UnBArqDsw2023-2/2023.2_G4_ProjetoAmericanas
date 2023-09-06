@@ -1,31 +1,14 @@
-# RepositorioTemplate
+# 2023.2_G4_ProjetoAmericanas
 
-Repositório que deve ser utilizado como template inicial pelos grupos da matéria de Arquitetura e Desenho de Software.
+## Sobre
+Este repositório é destinado ao armazenamento dos artefatos e atividades do Projeto Americanas, produzido pelo grupo 04 da disciplina de Arquitetura e Desenho de Software e orientado pela Profa. Dra. Milene Serrano durante o semestre 2023.2 da Universidade de Brasília, Campus Gama (UnB/FGA).
 
-## Introdução
+## Equipe
+| Bernardo Pissutti | Bruno Ribeiro | Bruno Bomfim | Gustavo Oliveira | Igor Penha | Lucas Bergholz | Marcos Souza | Paulo Silva | Rafael Rodrigues | Vitor Brito |
+|---|---|---|---|---|---|---|---|---|---|
+| ![Bernardo's Photo](https://avatars.githubusercontent.com/u/57421498?v=4) | ![Bruno's Photo](https://avatars.githubusercontent.com/u/87769920?v=4) | ![Bruno M's Photo](https://avatars.githubusercontent.com/u/30751876?v=4) | ![Gustavo's Photo](https://avatars.githubusercontent.com/u/56006361?v=4) | ![Igor's Photo](https://avatars.githubusercontent.com/u/98900627?v=4) | ![Lucas's Photo](https://avatars.githubusercontent.com/u/99743571?v=4) | ![Marcos's Photo](https://avatars.githubusercontent.com/u/40834597?v=4) | ![Paulo's Photo](https://avatars.githubusercontent.com/u/42396782?v=4) | ![Rafael's Photo](https://avatars.githubusercontent.com/u/97995709?v=4) | ![Vitor's Photo](https://avatars.githubusercontent.com/u/74791849?v=4) |
 
-Este repositório traz um template de repo de documentação a ser seguido pelos grupos de arquitetura e desenho de software.
-
-## Tecnologia
-
-A geração do site estático é realizada utilizando o [docsify](https://docsify.js.org/).
-
-```shell
-"Docsify generates your documentation website on the fly. Unlike GitBook, it does not generate static html files. Instead, it smartly loads and parses your Markdown files and displays them as a website. To start using it, all you need to do is create an index.html and deploy it on GitHub Pages."
-```
-
-### Instalando o docsify
-
-Execute o comando:
-
-```shell
-npm i docsify-cli -g
-```
-
-### Executando localmente
-
-Para iniciar o site localmente, utilize o comando:
-
-```shell
-docsify serve ./docs
-```
+## Histórico de Versão
+|  Versão  | Data da alteração | Alteração | Responsável | Revisor | Data de revisão |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 1.0 | 05/09 | Criação do documento | Bruno Martins |  | dia/mes |
