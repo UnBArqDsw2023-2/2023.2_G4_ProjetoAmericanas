@@ -2,8 +2,8 @@
 
 - [Home](/)
 - [Diretrizes](Diretrizes/Diretrizes.md)
-- [Atas de Reunião]()
-  - [Ata 1](Atas/reuniao01.md)
+- Atas de Reunião
+  - [Reunião 1](Atas/reuniao01.md)
 
 - **Base**
   - [1. Desenho de Software (Base)](Base/1.Base.md)
