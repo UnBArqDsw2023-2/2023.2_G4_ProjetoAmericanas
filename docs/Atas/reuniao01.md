@@ -64,10 +64,8 @@ Ficou decidido na reunião, que as atividades individuais seguiriam o que está 
 ## Bibliografia
 [1] TEAMS. Disponível em: [TEAMS](https://teams.microsoft.com/). Acesso em: 13 de Abril de 2023.
 
-## Histórico de Versões
 
 ##  Histórico de Versão
-
 |  Versão  |   Data da alteração  |   Alteração  |  Responsável  |  Revisor  | Data de revisão |
 | :------: | :------------------: | :-----------: | :--------------: | :--------: | :-----------------: |
 | `1.0` | 05/09/2023 | Criação da 1ª ata | [Igor Penha](https://github.com/igorpenhaa) | [Rafael Bosi](https://github.com/StrangeUnit28) | 05/09/2023 |
