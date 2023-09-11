@@ -54,4 +54,4 @@ Quaisquer outras informações adicionais podem ser descritas nessa seção.
 ## Histórico de Versão
 |  Versão  | Data da alteração | Alteração | Responsável | Revisor | Data de revisão |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1.0 | 05/09 | Criação do documento | Bruno Martins | Lucas Gobbi | 06/09 |
+| 1.0 | 05/09 | Criação do documento | [Bruno Martins](https://github.com/gitbmvb) | [Lucas Gobbi](https://github.com/LucasBergholz) | 06/09 |
