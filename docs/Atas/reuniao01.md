@@ -57,17 +57,15 @@ Ficou decidido na reunião, que as atividades individuais seguiriam o que está 
 
 <iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/qV0bU0zul0k" title="Reunião 10" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <div align="center">
-<p> <b>Vídeo 1</b>: gravação da reunião 10 (Fonte: Grupo. 2023).</p>
+<p> <b>Vídeo 1</b>: gravação da reunião 1 (Fonte: Grupo. 2023).</p>
 </div>
 
 
 ## Bibliografia
-[1] TEAMS. Disponível em: [TEAMS](https://teams.microsoft.com/). Acesso em: 13 de Abril de 2023.
+[1] TEAMS. Disponível em: [TEAMS](https://teams.microsoft.com/). Acesso em: 05 de setembro de 2023.
 
-## Histórico de Versões
 
 ##  Histórico de Versão
-
 |  Versão  |   Data da alteração  |   Alteração  |  Responsável  |  Revisor  | Data de revisão |
 | :------: | :------------------: | :-----------: | :--------------: | :--------: | :-----------------: |
 | `1.0` | 05/09/2023 | Criação da 1ª ata | [Igor Penha](https://github.com/igorpenhaa) | [Rafael Bosi](https://github.com/StrangeUnit28) | 05/09/2023 |
