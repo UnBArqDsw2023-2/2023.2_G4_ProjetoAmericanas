@@ -93,7 +93,16 @@ Descrição_Projeto: Americanas, Perfil Comprador, e fluxos compreendidos do cad
     </div>
     </br>
 
-   
+   - ### LO02 - <a id="Search bar">Search bar</a>
+
+    |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
+    | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
+    | Search bar | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | É um elemento gráfico de controle, usualmente uma caixa de texto em linha única, com a finalidade de busca na base de dados. | Buscar produtos desejados. | Search box, Search field | Objeto |
+
+    <div style="text-align: center">
+    <p> Tabela 5: Léxico de search bar (Fonte: RIBEIRO, Bruno 2023).</p>
+    </div>
+    </br>
 
 - ## Verbo
 
@@ -108,7 +117,17 @@ Descrição_Projeto: Americanas, Perfil Comprador, e fluxos compreendidos do cad
     </div>
     </br>
 
-   
+   - ### LV02 - <a id="Avaliar">Avaliar</a>
+
+    |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
+    | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
+    | Avaliar | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | Quando um comprador redige um texto com a ideia de, conjecturar sobre ou determinar a qualidade, de um produto comprado anteriormente. | Produtos avaliados são mais quistos pelo público. | Qualificar | Verbo |
+
+    <div style="text-align: center">
+    <p> Tabela 17: Léxico de avaliar (Fonte: RIBEIRO, Bruno. 2023).</p>
+    </div>
+    </br>
+    
 ## Conclusão
 
 <div align="justify">
