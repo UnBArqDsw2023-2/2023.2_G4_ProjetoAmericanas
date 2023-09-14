@@ -320,4 +320,5 @@ Descrição_Projeto: Americanas, Perfil Comprador, e fluxos compreendidos do cad
 | Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 12/09/2023 | `1.0` | Criando o artefato | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Bruno Martins](https://github.com/gitbmvb) | 14/09/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
-| 14/09/2023 | `1.1` | Adicionando mais léxicos | [Bruno Martins](https://github.com/gitbmvb) | 14/09/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
+| 14/09/2023 | `1.1.1` | Adicionando mais léxicos de verbo | [Bruno Martins](https://github.com/gitbmvb) | 14/09/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
+| 14/09/2023 | `1.1.2` | Adicionando mais léxicos de objeto | [Bruno Martins](https://github.com/gitbmvb) | 14/09/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
