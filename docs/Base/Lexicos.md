@@ -78,7 +78,16 @@ Descrição_Projeto: Americanas, Perfil Comprador, e fluxos compreendidos do cad
     </div>
     </br>
 
-    
+- ### LE02 - <a id="Características de produto">Características de produto</a>
+
+    |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
+    | :-------: | :-------: | :-----------: | :----------------: | :-------: | :--------: |
+    | Características de produto | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | Um produto é avaliado por suas características. | Compradores adquirem produtos baseados em suas características. | Aspecto, atributo | Estado |
+
+    <div style="text-align: center">
+    <p> Tabela 2: Léxico de características de produto (Fonte: RIBEIRO, Bruno. 2023).</p>
+    </div>
+    </br>    
 
 - ## Objeto
 
@@ -101,6 +110,28 @@ Descrição_Projeto: Americanas, Perfil Comprador, e fluxos compreendidos do cad
 
     <div style="text-align: center">
     <p> Tabela 5: Léxico de search bar (Fonte: RIBEIRO, Bruno 2023).</p>
+    </div>
+    </br>
+
+     - ### LO03 - <a id="Produto">Produto</a>
+
+    |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
+    | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
+    | Produto | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | Aquilo que é produzido para venda no mercado. | Usuários buscam por produtos na aplicação, os quais dejesam comprar. | Mercadoria, mercancia, item, objeto, compra. | Objeto |
+
+    <div style="text-align: center">
+    <p> Tabela 5: Léxico de produto (Fonte: RIBEIRO, Bruno 2023).</p>
+    </div>
+    </br>
+
+    - ### LO04 - <a id="Avaliação">Avaliação</a>
+
+    |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
+    | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
+    | Avaliação | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | Conjectura sobre condições, extensão, intensidade ou qualidade de um produto. | Um comprador visualiza a média das avaliações de um produto antes de adquiri-lo. | Consideração, julgamento, parecer, opinião, conjectura. | Objeto |
+
+    <div style="text-align: center">
+    <p> Tabela 5: Léxico de avaliação (Fonte: RIBEIRO, Bruno 2023).</p>
     </div>
     </br>
 
@@ -127,6 +158,17 @@ Descrição_Projeto: Americanas, Perfil Comprador, e fluxos compreendidos do cad
     <p> Tabela 17: Léxico de avaliar (Fonte: RIBEIRO, Bruno. 2023).</p>
     </div>
     </br>
+
+- ### LV03 - <a id="Comprar">Comprar</a>
+
+    |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
+    | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
+    | Comprar | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | Quando um usuário quer obter, mediante pagamento, a propriedade ou o uso de. | Produtos comprados saem do estoque para a casa do usuário o qual comprou. | Adquirir, mercar | Verbo |
+
+    <div style="text-align: center">
+    <p> Tabela 17: Léxico de comprar (Fonte: RIBEIRO, Bruno. 2023).</p>
+    </div>
+    </br>
     
 ## Conclusão
 
@@ -145,4 +187,4 @@ Descrição_Projeto: Americanas, Perfil Comprador, e fluxos compreendidos do cad
 
 | Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 12/09/2023 | `1.0` | Criando o artefato | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | 14/09/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
+| 12/09/2023 | `1.0` | Criando o artefato | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Bruno Martins](https://github.com/gitbmvb) | 14/09/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
