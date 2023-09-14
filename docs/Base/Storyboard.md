@@ -38,8 +38,8 @@ A partir de uma reunião voltada para a análise dos storyboards, os dois membro
 
 ## Histórico de Versões
 
-| <p align="center">Versão</p> | <p align="center">Data</p> | <p align="center">Alteração</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
+| <p align="center">Versão</p> | <p align="center">Data</p> | <p align="center">Alteração</p> | <p align="center">Autor(es)</p> |  <p align="center">Revisor(es)</p> | <p align="center">Data de revisão</p> |
 | :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
-| `1.0` | 14/09/2023  | Criação do molde do documento de storyboard | [Igor Penha](https://github.com/igorpenhaa) e [Lucas Gobbi](https://github.com/lucasbergholz) | 14/09/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
+| `1.0` | 14/09/2023  | Criação do molde do documento de storyboard | [Igor Penha](https://github.com/igorpenhaa) e [Lucas Gobbi](https://github.com/lucasbergholz) | [Bruno Ribeiro](https://github.com/brunoriibeiro)  | 14/09/2023 |
 
 </div>
