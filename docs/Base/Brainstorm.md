@@ -58,7 +58,7 @@
 |      [Igor Penha](https://github.com/igorpenhaa)       | Participante |
 |    [Lucas Gobbi](https://github.com/LucasBergholz)     | Participante |
 |     [Marcos Felipe](https://github.com/Marofelipe)     | Participante |
-| [Pedro Henrique](https://github.com/PedroHenrique2077) | Participante |
+|     [Paulo Henrique](https://github.com/owhenrique)     | Participante |
 |    [Rafael Bosi](https://github.com/StrangeUnit28)     | Facilitador  |
 |    [Vitor Manoel](https://github.com/vitormanoel17)    | Participante |
 
