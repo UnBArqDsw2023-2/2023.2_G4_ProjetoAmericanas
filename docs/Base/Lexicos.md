@@ -135,6 +135,17 @@ Descrição_Projeto: Americanas, Perfil Comprador, e fluxos compreendidos do cad
     </div>
     </br>
 
+   - ### LO02 - <a id="Search bar">Menu</a>
+
+    |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
+    | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
+    | Menu | [Bruno Martins](https://github.com/gitbmvb) | É um elemento gráfico que exibe de forma dinâmica os produtos segregados nos diversos departamentos da loja. | Facilitar a visualização agrupando os itens em departamentos semelhantes. | Navbar, sidebar | Objeto |
+
+    <div style="text-align: center">
+    <p> Tabela 5: Léxico de menu (Fonte: MARTINS, Bruno 2023).</p>
+    </div>
+    </br>
+
 - ## Verbo
 
     - ### LV01 - <a id="Confirmar">Confirmar</a>
@@ -169,7 +180,84 @@ Descrição_Projeto: Americanas, Perfil Comprador, e fluxos compreendidos do cad
     <p> Tabela 17: Léxico de comprar (Fonte: RIBEIRO, Bruno. 2023).</p>
     </div>
     </br>
-    
+
+- ### LV04 - <a id="Comprar">Adicionar</a>
+
+    |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
+    | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
+    | Adicionar | [Bruno Martins](https://github.com/gitbmvb) | O usuário quer aumentar a quantidade de elementos de um mesmo item presente no carrinho. | O usuário adquire mais itens, de acordo com a sua necessidade. | Aumentar, crescer, incrementar | Verbo |
+
+    <div style="text-align: center">
+    <p> Tabela 17: Léxico de adicionar (Fonte: MARTINS, Bruno. 2023).</p>
+    </div>
+    </br>
+
+- ### LV05 - <a id="Comprar">Diminuir</a>
+
+    |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
+    | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
+    | Diminuir | [Bruno Martins](https://github.com/gitbmvb) | O usuário quer diminuir a quantidade de elementos de um mesmo item presente no carrinho. | O usuário adquire menos itens, de acordo com a sua necessidade. | Decrementar, diminuir, reduzir, economizar | Verbo |
+
+    <div style="text-align: center">
+    <p> Tabela 17: Léxico de diminuir (Fonte: MARTINS, Bruno. 2023).</p>
+    </div>
+    </br>
+
+- ### LV06 - <a id="Comprar">Cancelar</a>
+
+    |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
+    | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
+    | Cancelar | [Bruno Martins](https://github.com/gitbmvb) | O usuário almeja interromper a compra e descartar as alterações feitas. | O usuário possui a liberdade de cancelar o ato de compra durante qualquer etapa da mesma. | Cessar, interromper, anular, desconsiderar, desfazer | Verbo |
+
+    <div style="text-align: center">
+    <p> Tabela 17: Léxico de cancelar (Fonte: MARTINS, Bruno. 2023).</p>
+    </div>
+    </br>
+
+- ### LV07 - <a id="Comprar">Alterar</a>
+
+    |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
+    | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
+    | Alterar | [Bruno Martins](https://github.com/gitbmvb) | O usuário almeja alterar uma informação introduzida incorretamente. | Evitar o armazenamento no sistema de dados incorretos do usuário. | Mudar, trocar, substituir, atualizar | Verbo |
+
+    <div style="text-align: center">
+    <p> Tabela 17: Léxico de alterar (Fonte: MARTINS, Bruno. 2023).</p>
+    </div>
+    </br>
+
+- ### LV08 - <a id="Comprar">Perguntar</a>
+
+    |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
+    | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
+    | Perguntar | [Bruno Martins](https://github.com/gitbmvb) | O usuário necessita esclarecer dúvidas técnicas sobre o produto que deseja adquirir. | O usuário fica ciente das qualidades do produto. | Indagar, requestar, duvidar | Verbo |
+
+    <div style="text-align: center">
+    <p> Tabela 17: Léxico de perguntar (Fonte: MARTINS, Bruno. 2023).</p>
+    </div>
+    </br>
+
+- ### LV09 - <a id="Comprar">Logar</a>
+
+    |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
+    | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
+    | Logar | [Bruno Martins](https://github.com/gitbmvb) | O usuário entra na sua conta pessoal do site. | O usuário entra na sua conta e consegue ter acesso a maior recursos, como favoritar produtos e armazená-los no carrinho.  | Entrar, acessar, identificar-se | Verbo |
+
+    <div style="text-align: center">
+    <p> Tabela 17: Léxico de logar (Fonte: MARTINS, Bruno. 2023).</p>
+    </div>
+    </br>
+
+- ### LV10 - <a id="Comprar">Deslogar</a>
+
+    |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
+    | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
+    | Deslogar | [Bruno Martins](https://github.com/gitbmvb) | O usuário encerra sua sessão na conta pessoal do site. | O usuário mantém a segurança de seus dados pessoais.  | Sair, encerrar, terminar, finalizar | Verbo |
+
+    <div style="text-align: center">
+    <p> Tabela 17: Léxico de deslogar (Fonte: MARTINS, Bruno. 2023).</p>
+    </div>
+    </br>
+
 ## Conclusão
 
 <div align="justify">
@@ -188,3 +276,4 @@ Descrição_Projeto: Americanas, Perfil Comprador, e fluxos compreendidos do cad
 | Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 12/09/2023 | `1.0` | Criando o artefato | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Bruno Martins](https://github.com/gitbmvb) | 14/09/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
+| 14/09/2023 | `1.1` | Adicionando mais léxicos | [Bruno Martins](https://github.com/gitbmvb) | 14/09/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
