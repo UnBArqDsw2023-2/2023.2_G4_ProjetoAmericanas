@@ -170,138 +170,137 @@ Descrição_Projeto: Americanas, Perfil Comprador, e fluxos compreendidos do cad
 
 - ## Verbo
 
-- ### LV04 - <a id="Aumentar">Adicionar</a>
+    - ### LV01 - <a id="Aumentar">Adicionar</a>
 
-    |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
-    | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
-    | Adicionar | [Bruno Martins](https://github.com/gitbmvb) | O usuário quer aumentar a quantidade de elementos de um mesmo item presente no carrinho. | O usuário adquire mais itens, de acordo com a sua necessidade. | Aumentar, crescer, incrementar | Verbo |
+        |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
+        | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
+        | Adicionar | [Bruno Martins](https://github.com/gitbmvb) | O usuário quer aumentar a quantidade de elementos de um mesmo item presente no carrinho. | O usuário adquire mais itens, de acordo com a sua necessidade. | Aumentar, crescer, incrementar | Verbo |
 
-    <div style="text-align: center">
-    <p> Tabela 17: Léxico de adicionar (Fonte: MARTINS, Bruno. 2023).</p>
-    </div>
-    </br>
+        <div style="text-align: center">
+        <p> Tabela 10: Léxico de adicionar (Fonte: MARTINS, Bruno. 2023).</p>
+        </div>
+        </br>
 
-- ### LV07 - <a id="Alterar">Alterar</a>
+    - ### LV02 - <a id="Alterar">Alterar</a>
 
-    |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
-    | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
-    | Alterar | [Bruno Martins](https://github.com/gitbmvb) | O usuário almeja alterar uma informação introduzida incorretamente. | Evitar o armazenamento no sistema de dados incorretos do usuário. | Mudar, trocar, substituir, atualizar | Verbo |
+        |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
+        | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
+        | Alterar | [Bruno Martins](https://github.com/gitbmvb) | O usuário almeja alterar uma informação introduzida incorretamente. | Evitar o armazenamento no sistema de dados incorretos do usuário. | Mudar, trocar, substituir, atualizar | Verbo |
 
-    <div style="text-align: center">
-    <p> Tabela 17: Léxico de alterar (Fonte: MARTINS, Bruno. 2023).</p>
-    </div>
-    </br>
+        <div style="text-align: center">
+        <p> Tabela 11: Léxico de alterar (Fonte: MARTINS, Bruno. 2023).</p>
+        </div>
+        </br>
 
-   - ### LV02 - <a id="Avaliar">Avaliar</a>
+    - ### LV03 - <a id="Avaliar">Avaliar</a>
 
-    |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
-    | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
-    | Avaliar | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | Quando um comprador redige um texto com a ideia de, conjecturar sobre ou determinar a qualidade, de um produto comprado anteriormente. | Produtos avaliados são mais quistos pelo público. | Qualificar | Verbo |
+        |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
+        | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
+        | Avaliar | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | Quando um comprador redige um texto com a ideia de, conjecturar sobre ou determinar a qualidade, de um produto comprado anteriormente. | Produtos avaliados são mais quistos pelo público. | Qualificar | Verbo |
 
-    <div style="text-align: center">
-    <p> Tabela 17: Léxico de avaliar (Fonte: RIBEIRO, Bruno. 2023).</p>
-    </div>
-    </br>
+        <div style="text-align: center">
+        <p> Tabela 12: Léxico de avaliar (Fonte: RIBEIRO, Bruno. 2023).</p>
+        </div>
+        </br>
 
-- ### LV06 - <a id="Cancelar">Cancelar</a>
+    - ### LV04 - <a id="Cancelar">Cancelar</a>
 
-    |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
-    | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
-    | Cancelar | [Bruno Martins](https://github.com/gitbmvb) | O usuário almeja interromper a compra e descartar as alterações feitas. | O usuário possui a liberdade de cancelar o ato de compra durante qualquer etapa da mesma. | Cessar, interromper, anular, desconsiderar, desfazer | Verbo |
+        |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
+        | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
+        | Cancelar | [Bruno Martins](https://github.com/gitbmvb) | O usuário almeja interromper a compra e descartar as alterações feitas. | O usuário possui a liberdade de cancelar o ato de compra durante qualquer etapa da mesma. | Cessar, interromper, anular, desconsiderar, desfazer | Verbo |
 
-    <div style="text-align: center">
-    <p> Tabela 17: Léxico de cancelar (Fonte: MARTINS, Bruno. 2023).</p>
-    </div>
-    </br>
+        <div style="text-align: center">
+        <p> Tabela 13: Léxico de cancelar (Fonte: MARTINS, Bruno. 2023).</p>
+        </div>
+        </br>
 
-- ### LV03 - <a id="Comprar">Comprar</a>
+    - ### LV05 - <a id="Comprar">Comprar</a>
 
-    |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
-    | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
-    | Comprar | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | Quando um usuário quer obter, mediante pagamento, a propriedade ou o uso de. | Produtos comprados saem do estoque para a casa do usuário o qual comprou. | Adquirir, mercar | Verbo |
+        |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
+        | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
+        | Comprar | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | Quando um usuário quer obter, mediante pagamento, a propriedade ou o uso de. | Produtos comprados saem do estoque para a casa do usuário o qual comprou. | Adquirir, mercar | Verbo |
 
-    <div style="text-align: center">
-    <p> Tabela 17: Léxico de comprar (Fonte: RIBEIRO, Bruno. 2023).</p>
-    </div>
-    </br>
+        <div style="text-align: center">
+        <p> Tabela 14: Léxico de comprar (Fonte: RIBEIRO, Bruno. 2023).</p>
+        </div>
+        </br>
 
-    - ### LV01 - <a id="Confirmar">Confirmar</a>
+    - ### LV06 - <a id="Confirmar">Confirmar</a>
 
     |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
     | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
     | Confirmar | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | Serie de checagens feitas durante o processo de cadastro para averiguar a correctude dos dados apresentados. | Dados quando confirmados condizem com dados apresentados anteriormente | Reconhecer, anuir | Verbo |
 
     <div style="text-align: center">
-    <p> Tabela 17: Léxico de confirmar (Fonte: RIBEIRO, Bruno. 2023).</p>
+    <p> Tabela 15: Léxico de confirmar (Fonte: RIBEIRO, Bruno. 2023).</p>
     </div>
     </br>
 
-- ### LV10 - <a id="Deslogar">Deslogar</a>
+    - ### LV07 - <a id="Deslogar">Deslogar</a>
 
-    |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
-    | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
-    | Deslogar | [Bruno Martins](https://github.com/gitbmvb) | O usuário encerra sua sessão na conta pessoal do site. | O usuário mantém a segurança de seus dados pessoais.  | Sair, encerrar, terminar, finalizar | Verbo |
+        |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
+        | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
+        | Deslogar | [Bruno Martins](https://github.com/gitbmvb) | O usuário encerra sua sessão na conta pessoal do site. | O usuário mantém a segurança de seus dados pessoais.  | Sair, encerrar, terminar, finalizar | Verbo |
 
-    <div style="text-align: center">
-    <p> Tabela 17: Léxico de deslogar (Fonte: MARTINS, Bruno. 2023).</p>
-    </div>
-    </br>
+        <div style="text-align: center">
+        <p> Tabela 16: Léxico de deslogar (Fonte: MARTINS, Bruno. 2023).</p>
+        </div>
+        </br>
 
-- ### LV05 - <a id="Diminuir">Diminuir</a>
+    - ### LV08 - <a id="Diminuir">Diminuir</a>
 
-    |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
-    | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
-    | Diminuir | [Bruno Martins](https://github.com/gitbmvb) | O usuário quer diminuir a quantidade de elementos de um mesmo item presente no carrinho. | O usuário adquire menos itens, de acordo com a sua necessidade. | Decrementar, diminuir, reduzir, economizar | Verbo |
+        |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
+        | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
+        | Diminuir | [Bruno Martins](https://github.com/gitbmvb) | O usuário quer diminuir a quantidade de elementos de um mesmo item presente no carrinho. | O usuário adquire menos itens, de acordo com a sua necessidade. | Decrementar, diminuir, reduzir, economizar | Verbo |
 
-    <div style="text-align: center">
-    <p> Tabela 17: Léxico de diminuir (Fonte: MARTINS, Bruno. 2023).</p>
-    </div>
-    </br>
+        <div style="text-align: center">
+        <p> Tabela 17: Léxico de diminuir (Fonte: MARTINS, Bruno. 2023).</p>
+        </div>
+        </br>
 
-- ### LV12 - <a id="Filtrar">Filtrar</a>
+    - ### LV09 - <a id="Filtrar">Filtrar</a>
 
-    |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
-    | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
-    | Filtrar | [Bruno Martins](https://github.com/gitbmvb) | O usuário filtra o resultado da busca de um produto pelo **menu** ou pela **search bar**. | O usuário pode encontrar produtos que se encaixam melhor às suas preferências. | Selecionar, especificar, restringir | Verbo |
+        |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
+        | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
+        | Filtrar | [Bruno Martins](https://github.com/gitbmvb) | O usuário filtra o resultado da busca de um produto pelo **menu** ou pela **search bar**. | O usuário pode encontrar produtos que se encaixam melhor às suas preferências. | Selecionar, especificar, restringir | Verbo |
 
-    <div style="text-align: center">
-    <p> Tabela 17: Léxico de filtrar (Fonte: MARTINS, Bruno. 2023).</p>
-    </div>
-    </br>
+        <div style="text-align: center">
+        <p> Tabela 18: Léxico de filtrar (Fonte: MARTINS, Bruno. 2023).</p>
+        </div>
+        </br>
 
-- ### LV09 - <a id="Logar">Logar</a>
+    - ### LV10 - <a id="Logar">Logar</a>
 
-    |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
-    | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
-    | Logar | [Bruno Martins](https://github.com/gitbmvb) | O usuário entra na sua conta pessoal do site. | O usuário entra na sua conta e consegue ter acesso a maior recursos, como favoritar produtos e armazená-los no carrinho.  | Entrar, acessar, identificar-se | Verbo |
+        |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
+        | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
+        | Logar | [Bruno Martins](https://github.com/gitbmvb) | O usuário entra na sua conta pessoal do site. | O usuário entra na sua conta e consegue ter acesso a maior recursos, como favoritar produtos e armazená-los no carrinho.  | Entrar, acessar, identificar-se | Verbo |
 
-    <div style="text-align: center">
-    <p> Tabela 17: Léxico de logar (Fonte: MARTINS, Bruno. 2023).</p>
-    </div>
-    </br>
+        <div style="text-align: center">
+        <p> Tabela 19: Léxico de logar (Fonte: MARTINS, Bruno. 2023).</p>
+        </div>
+        </br>
 
-- ### LV08 - <a id="Perguntar">Perguntar</a>
+    - ### LV11 - <a id="Perguntar">Perguntar</a>
 
-    |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
-    | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
-    | Perguntar | [Bruno Martins](https://github.com/gitbmvb) | O usuário necessita esclarecer dúvidas técnicas sobre o produto que deseja adquirir. | O usuário fica ciente das qualidades do produto. | Indagar, requestar, duvidar | Verbo |
+        |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
+        | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
+        | Perguntar | [Bruno Martins](https://github.com/gitbmvb) | O usuário necessita esclarecer dúvidas técnicas sobre o produto que deseja adquirir. | O usuário fica ciente das qualidades do produto. | Indagar, requestar, duvidar | Verbo |
 
-    <div style="text-align: center">
-    <p> Tabela 17: Léxico de perguntar (Fonte: MARTINS, Bruno. 2023).</p>
-    </div>
-    </br>
+        <div style="text-align: center">
+        <p> Tabela 20: Léxico de perguntar (Fonte: MARTINS, Bruno. 2023).</p>
+        </div>
+        </br>
 
-- ### LV11 - <a id="Rastrear">Rastrear</a>
+    - ### LV12 - <a id="Rastrear">Rastrear</a>
 
-    |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
-    | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
-    | Rastrear | [Bruno Martins](https://github.com/gitbmvb) | Depois de comprado o produto, o usuário pode rastrear sua movimentação. | O usuário está ciente da atual situação da demanda de entrega. | Monitorar, checar, analisar, informar-se | Verbo |
+        |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
+        | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
+        | Rastrear | [Bruno Martins](https://github.com/gitbmvb) | Depois de comprado o produto, o usuário pode rastrear sua movimentação. | O usuário está ciente da atual situação da demanda de entrega. | Monitorar, checar, analisar, informar-se | Verbo |
 
-    <div style="text-align: center">
-    <p> Tabela 17: Léxico de rastrear (Fonte: MARTINS, Bruno. 2023).</p>
-    </div>
-    </br>
-
+        <div style="text-align: center">
+        <p> Tabela 21: Léxico de rastrear (Fonte: MARTINS, Bruno. 2023).</p>
+        </div>
+        </br>
 
 ## Conclusão
 
