@@ -16,7 +16,7 @@
     - [Léxicos](Base/Lexicos.md)
     - [Mapa Mental](Base/MapaMental.md)
     - [Rich Picture](Base/RichPicture.md)
-    - [Storyboard](Base/StoryBoard.md)
+    - [Storyboard](Base/Storyboard.md)
 <!-- 
 - **Modelagem**
   - [2. Desenho de Software (Modelagem)](Modelagem/2.Modelagem.md)
