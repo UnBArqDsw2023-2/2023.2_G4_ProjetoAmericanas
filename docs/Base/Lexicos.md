@@ -91,39 +91,6 @@ Descrição_Projeto: Americanas, Perfil Comprador, e fluxos compreendidos do cad
 
 - ## Objeto
 
-    - ### LO01 - <a id="Nome Completo">Nome Completo</a>
-
-    |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
-    | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
-    | Nome Completo | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | Uma forma de indentificação do usuário, um conjunto de nomes pelos quais um indivíduo é conhecido e que pode ser recitado. | O nome aparecerá como destinatário em todas as encomendas remetidas. | Nome Pessoal | Objeto |
-
-    <div style="text-align: center">
-    <p> Tabela 5: Léxico de nome completo (Fonte: RIBEIRO, Bruno. 2023).</p>
-    </div>
-    </br>
-
-   - ### LO02 - <a id="Search bar">Search bar</a>
-
-    |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
-    | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
-    | Search bar | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | É um elemento gráfico de controle, usualmente uma caixa de texto em linha única, com a finalidade de busca na base de dados. | Buscar produtos desejados. | Search box, Search field | Objeto |
-
-    <div style="text-align: center">
-    <p> Tabela 5: Léxico de search bar (Fonte: RIBEIRO, Bruno. 2023).</p>
-    </div>
-    </br>
-
-     - ### LO03 - <a id="Produto">Produto</a>
-
-    |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
-    | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
-    | Produto | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | Aquilo que é produzido para venda no mercado. | Usuários buscam por produtos na aplicação, os quais dejesam comprar. | Mercadoria, mercancia, item, objeto, compra. | Objeto |
-
-    <div style="text-align: center">
-    <p> Tabela 5: Léxico de produto (Fonte: RIBEIRO, Bruno. 2023).</p>
-    </div>
-    </br>
-
     - ### LO04 - <a id="Avaliação">Avaliação</a>
 
     |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
@@ -135,14 +102,14 @@ Descrição_Projeto: Americanas, Perfil Comprador, e fluxos compreendidos do cad
     </div>
     </br>
 
-   - ### LO05 - <a id="Menu">Menu</a>
+   - ### LO07 - <a id="Carrinho">Carrinho</a>
 
     |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
     | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
-    | Menu | [Bruno Martins](https://github.com/gitbmvb) | É um elemento gráfico que exibe de forma dinâmica os produtos segregados nos diversos departamentos da loja. | Facilitar a visualização agrupando os itens em departamentos semelhantes. | Navbar, sidebar | Objeto |
+    | Carrinho | [Bruno Martins](https://github.com/gitbmvb) | Interface que armazena os itens selecionados pelo usuário, além do valor total, descontos, etc. Simula a experiência familiar e comum de um carrinho de compras da vida real. | Oferecer ao usuário a sensação de controle sobre a adminstração dos produtos selecionados. | Cesta, sacola | Objeto |
 
     <div style="text-align: center">
-    <p> Tabela 5: Léxico de menu (Fonte: MARTINS, Bruno. 2023).</p>
+    <p> Tabela 5: Léxico de carrinho (Fonte: MARTINS, Bruno. 2023).</p>
     </div>
     </br>
 
@@ -157,14 +124,47 @@ Descrição_Projeto: Americanas, Perfil Comprador, e fluxos compreendidos do cad
     </div>
     </br>
 
-   - ### LO07 - <a id="Carrinho">Carrinho</a>
+   - ### LO05 - <a id="Menu">Menu</a>
 
     |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
     | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
-    | Carrinho | [Bruno Martins](https://github.com/gitbmvb) | Interface que armazena os itens selecionados pelo usuário, além do valor total, descontos, etc. Simula a experiência familiar e comum de um carrinho de compras da vida real. | Oferecer ao usuário a sensação de controle sobre a adminstração dos produtos selecionados. | Cesta, sacola | Objeto |
+    | Menu | [Bruno Martins](https://github.com/gitbmvb) | É um elemento gráfico que exibe de forma dinâmica os produtos segregados nos diversos departamentos da loja. | Facilitar a visualização agrupando os itens em departamentos semelhantes. | Navbar, sidebar | Objeto |
 
     <div style="text-align: center">
-    <p> Tabela 5: Léxico de carrinho (Fonte: MARTINS, Bruno. 2023).</p>
+    <p> Tabela 5: Léxico de menu (Fonte: MARTINS, Bruno. 2023).</p>
+    </div>
+    </br>
+
+    - ### LO01 - <a id="Nome Completo">Nome Completo</a>
+
+    |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
+    | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
+    | Nome Completo | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | Uma forma de indentificação do usuário, um conjunto de nomes pelos quais um indivíduo é conhecido e que pode ser recitado. | O nome aparecerá como destinatário em todas as encomendas remetidas. | Nome Pessoal | Objeto |
+
+    <div style="text-align: center">
+    <p> Tabela 5: Léxico de nome completo (Fonte: RIBEIRO, Bruno. 2023).</p>
+    </div>
+    </br>
+
+     - ### LO03 - <a id="Produto">Produto</a>
+
+    |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
+    | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
+    | Produto | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | Aquilo que é produzido para venda no mercado. | Usuários buscam por produtos na aplicação, os quais dejesam comprar. | Mercadoria, mercancia, item, objeto, compra. | Objeto |
+
+    <div style="text-align: center">
+    <p> Tabela 5: Léxico de produto (Fonte: RIBEIRO, Bruno. 2023).</p>
+    </div>
+    </br>
+
+   - ### LO02 - <a id="Search bar">Search bar</a>
+
+    |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
+    | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
+    | Search bar | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | É um elemento gráfico de controle, usualmente uma caixa de texto em linha única, com a finalidade de busca na base de dados. | Buscar produtos desejados. | Search box, Search field | Objeto |
+
+    <div style="text-align: center">
+    <p> Tabela 5: Léxico de search bar (Fonte: RIBEIRO, Bruno. 2023).</p>
     </div>
     </br>
 
