@@ -258,6 +258,28 @@ Descrição_Projeto: Americanas, Perfil Comprador, e fluxos compreendidos do cad
     </div>
     </br>
 
+- ### LV11 - <a id="Comprar">Rastrear</a>
+
+    |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
+    | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
+    | Rastrear | [Bruno Martins](https://github.com/gitbmvb) | Depois de comprado o produto, o usuário pode rastrear sua movimentação. | O usuário está ciente da atual situação da demanda de entrega. | Monitorar, checar, analisar, informar-se | Verbo |
+
+    <div style="text-align: center">
+    <p> Tabela 17: Léxico de rastrear (Fonte: MARTINS, Bruno. 2023).</p>
+    </div>
+    </br>
+
+- ### LV12 - <a id="Comprar">Filtrar</a>
+
+    |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
+    | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
+    | Filtrar | [Bruno Martins](https://github.com/gitbmvb) | O usuário filtra o resultado da busca de um produto pelo **menu** ou pela **search bar**. | O usuário pode encontrar produtos que se encaixam melhor às suas preferências. | Selecionar, especificar, restringir | Verbo |
+
+    <div style="text-align: center">
+    <p> Tabela 17: Léxico de filtrar (Fonte: MARTINS, Bruno. 2023).</p>
+    </div>
+    </br>
+
 ## Conclusão
 
 <div align="justify">
