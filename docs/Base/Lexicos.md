@@ -98,7 +98,7 @@ Descrição_Projeto: Americanas, Perfil Comprador, e fluxos compreendidos do cad
     | Nome Completo | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | Uma forma de indentificação do usuário, um conjunto de nomes pelos quais um indivíduo é conhecido e que pode ser recitado. | O nome aparecerá como destinatário em todas as encomendas remetidas. | Nome Pessoal | Objeto |
 
     <div style="text-align: center">
-    <p> Tabela 5: Léxico de nome completo (Fonte: RIBEIRO, Bruno 2023).</p>
+    <p> Tabela 5: Léxico de nome completo (Fonte: RIBEIRO, Bruno. 2023).</p>
     </div>
     </br>
 
@@ -109,7 +109,7 @@ Descrição_Projeto: Americanas, Perfil Comprador, e fluxos compreendidos do cad
     | Search bar | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | É um elemento gráfico de controle, usualmente uma caixa de texto em linha única, com a finalidade de busca na base de dados. | Buscar produtos desejados. | Search box, Search field | Objeto |
 
     <div style="text-align: center">
-    <p> Tabela 5: Léxico de search bar (Fonte: RIBEIRO, Bruno 2023).</p>
+    <p> Tabela 5: Léxico de search bar (Fonte: RIBEIRO, Bruno. 2023).</p>
     </div>
     </br>
 
@@ -120,7 +120,7 @@ Descrição_Projeto: Americanas, Perfil Comprador, e fluxos compreendidos do cad
     | Produto | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | Aquilo que é produzido para venda no mercado. | Usuários buscam por produtos na aplicação, os quais dejesam comprar. | Mercadoria, mercancia, item, objeto, compra. | Objeto |
 
     <div style="text-align: center">
-    <p> Tabela 5: Léxico de produto (Fonte: RIBEIRO, Bruno 2023).</p>
+    <p> Tabela 5: Léxico de produto (Fonte: RIBEIRO, Bruno. 2023).</p>
     </div>
     </br>
 
@@ -131,18 +131,40 @@ Descrição_Projeto: Americanas, Perfil Comprador, e fluxos compreendidos do cad
     | Avaliação | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | Conjectura sobre condições, extensão, intensidade ou qualidade de um produto. | Um comprador visualiza a média das avaliações de um produto antes de adquiri-lo. | Consideração, julgamento, parecer, opinião, conjectura. | Objeto |
 
     <div style="text-align: center">
-    <p> Tabela 5: Léxico de avaliação (Fonte: RIBEIRO, Bruno 2023).</p>
+    <p> Tabela 5: Léxico de avaliação (Fonte: RIBEIRO, Bruno. 2023).</p>
     </div>
     </br>
 
-   - ### LO02 - <a id="Search bar">Menu</a>
+   - ### LO05 - <a id="Menu">Menu</a>
 
     |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
     | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
     | Menu | [Bruno Martins](https://github.com/gitbmvb) | É um elemento gráfico que exibe de forma dinâmica os produtos segregados nos diversos departamentos da loja. | Facilitar a visualização agrupando os itens em departamentos semelhantes. | Navbar, sidebar | Objeto |
 
     <div style="text-align: center">
-    <p> Tabela 5: Léxico de menu (Fonte: MARTINS, Bruno 2023).</p>
+    <p> Tabela 5: Léxico de menu (Fonte: MARTINS, Bruno. 2023).</p>
+    </div>
+    </br>
+
+   - ### LO06 - <a id="Comentário">Comentário</a>
+
+    |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
+    | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
+    | Comentário | [Bruno Martins](https://github.com/gitbmvb) | Elemento no qual o usuário registra as suas impressões e expectativas depois de haver comprado um produto. | Feedback dos usuários sobre a qualidade dos produtos oferecidos pela loja. | Avaliação, observação, consideração | Objeto |
+
+    <div style="text-align: center">
+    <p> Tabela 5: Léxico de comentário (Fonte: MARTINS, Bruno. 2023).</p>
+    </div>
+    </br>
+
+   - ### LO07 - <a id="Carrinho">Carrinho</a>
+
+    |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
+    | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
+    | Carrinho | [Bruno Martins](https://github.com/gitbmvb) | Interface que armazena os itens selecionados pelo usuário, além do valor total, descontos, etc. Simula a experiência familiar e comum de um carrinho de compras da vida real. | Oferecer ao usuário a sensação de controle sobre a adminstração dos produtos selecionados. | Cesta, sacola | Objeto |
+
+    <div style="text-align: center">
+    <p> Tabela 5: Léxico de carrinho (Fonte: MARTINS, Bruno. 2023).</p>
     </div>
     </br>
 
@@ -181,7 +203,7 @@ Descrição_Projeto: Americanas, Perfil Comprador, e fluxos compreendidos do cad
     </div>
     </br>
 
-- ### LV04 - <a id="Comprar">Adicionar</a>
+- ### LV04 - <a id="Aumentar">Adicionar</a>
 
     |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
     | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
@@ -192,7 +214,7 @@ Descrição_Projeto: Americanas, Perfil Comprador, e fluxos compreendidos do cad
     </div>
     </br>
 
-- ### LV05 - <a id="Comprar">Diminuir</a>
+- ### LV05 - <a id="Diminuir">Diminuir</a>
 
     |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
     | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
@@ -203,7 +225,7 @@ Descrição_Projeto: Americanas, Perfil Comprador, e fluxos compreendidos do cad
     </div>
     </br>
 
-- ### LV06 - <a id="Comprar">Cancelar</a>
+- ### LV06 - <a id="Cancelar">Cancelar</a>
 
     |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
     | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
@@ -214,7 +236,7 @@ Descrição_Projeto: Americanas, Perfil Comprador, e fluxos compreendidos do cad
     </div>
     </br>
 
-- ### LV07 - <a id="Comprar">Alterar</a>
+- ### LV07 - <a id="Alterar">Alterar</a>
 
     |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
     | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
@@ -225,7 +247,7 @@ Descrição_Projeto: Americanas, Perfil Comprador, e fluxos compreendidos do cad
     </div>
     </br>
 
-- ### LV08 - <a id="Comprar">Perguntar</a>
+- ### LV08 - <a id="Perguntar">Perguntar</a>
 
     |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
     | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
@@ -236,7 +258,7 @@ Descrição_Projeto: Americanas, Perfil Comprador, e fluxos compreendidos do cad
     </div>
     </br>
 
-- ### LV09 - <a id="Comprar">Logar</a>
+- ### LV09 - <a id="Logar">Logar</a>
 
     |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
     | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
@@ -247,7 +269,7 @@ Descrição_Projeto: Americanas, Perfil Comprador, e fluxos compreendidos do cad
     </div>
     </br>
 
-- ### LV10 - <a id="Comprar">Deslogar</a>
+- ### LV10 - <a id="Deslogar">Deslogar</a>
 
     |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
     | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
@@ -258,7 +280,7 @@ Descrição_Projeto: Americanas, Perfil Comprador, e fluxos compreendidos do cad
     </div>
     </br>
 
-- ### LV11 - <a id="Comprar">Rastrear</a>
+- ### LV11 - <a id="Rastrear">Rastrear</a>
 
     |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
     | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
@@ -269,7 +291,7 @@ Descrição_Projeto: Americanas, Perfil Comprador, e fluxos compreendidos do cad
     </div>
     </br>
 
-- ### LV12 - <a id="Comprar">Filtrar</a>
+- ### LV12 - <a id="Filtrar">Filtrar</a>
 
     |     Léxico     |      Autor      |   Noção  |       Impacto       |   Sinônimo  |   Classificação     |
     | :------------: | :-------------: | :------: | :-----------------: | :---------: | :-----------------: |
