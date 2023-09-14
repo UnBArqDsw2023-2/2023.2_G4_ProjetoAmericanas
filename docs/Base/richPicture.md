@@ -75,5 +75,5 @@ A utilização de Rich Pictures permite a identificação de problemas de usabil
 
 | Versão | Data da alteração | Alteração                                                            | Responsável                                                                                        | Revisor | Data de rev |
 | ------ | ----------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------- | ----------- |
-| 1.0    | 13/09/2023        | Construção do documento                                              | [Paulo Henrique](https://github.com/owhenrique) e [Vitor Manoel](https://github.com/vitormanoel17) | []()    |             |
-| 1.1    | 14/09/2023        | Adição de legenda de rich picture e correção de descrição de figuras | [Paulo Henrique](https://github.com/owhenrique)                                                    | []()    |             |
+| 1.0    | 13/09/2023        | Construção do documento                                              | [Paulo Henrique](https://github.com/owhenrique) e [Vitor Manoel](https://github.com/vitormanoel17) | [Lucas Gobbi](https://github.com/LucasBergholz)     |      14/09/2023       |
+| 1.1    | 14/09/2023        | Adição de legenda de rich picture e correção de descrição de figuras | [Paulo Henrique](https://github.com/owhenrique)                                                    | [Lucas Gobbi](https://github.com/LucasBergholz)    |       14/09/2023       |
