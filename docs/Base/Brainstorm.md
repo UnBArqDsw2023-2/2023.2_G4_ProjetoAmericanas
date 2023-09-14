@@ -73,18 +73,19 @@ Foram registradas todas as ideias e conclusões da sessão. Isso inclui insights
 <div align= "justify">
 &emsp;&emsp;Abaixo se encontra a gravação da dinâmica de brainstorming realizada pelo grupo. Para um bom andamento da técnica utilizamos as 7 etapas listadas e exemplificadas no tópico de Metodologia deste artefato.
 </div>
-
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fXS1jrudTMA?si=0SIyGrVSkfas1ulC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<div align="center">Realização do Brainstorming</div>
+<div align="center">Vídeo 1 - Realização do Brainstorming</div>
 
 ## Resultado e conclusões
 
 <div align="justify">
-&emsp;&emsp;Como resultado da execução da técnica, obtivemos o artefato apresentado abaixo, que apresenta todas as ideias coletadas e priorizadas durante a realização do Brainstorming.
+&emsp;&emsp;Como resultado da execução da técnica, obtivemos o artefato apresentado abaixo, que apresenta todas as ideias coletadas e priorizadas durante a realização do Brainstorming na ferramenta <a href="https://miro.com">Miro</a>.
 </div>
-
+<br>
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVMmMS6TU=/?moveToViewport=-3770,-1392,7485,3479&embedId=754196101178" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
-
+<div align="center">Figura 1 - Brainstorm no Miro</div>
+<br>
 <div align="justify">
 &emsp;&emsp;Analisando o Brainstorm acima é possível concluir que...
 </div>
