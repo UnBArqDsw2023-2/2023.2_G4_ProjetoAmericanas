@@ -17,11 +17,15 @@
 <div align="jutify">
 &emsp;&emsp; Para realização do rich picture é necessário a representação de alguns componentes pré-estabelecidos conforme a figura 1. Sendo eles: Atores, Processos, Setas, fronteira e armazenamento de Dados. Os atores representam um grupo de usuários e outros envolvidos ao sistema, como stakeholders e terceiros (ex: fornecedores) podem estar associado a qualquer numero de processos; Processos representam os fluxos presentes no sistemas, ou seja, o que ele faz. Cada processo é executado por um ator ou outro processo; as setas representam o direcionamento dos fluxos e dados armazenados nos processos; Por fim temos a fronteira que delimita o sistema e o mundo externo a ele.
 
-![](../../public/rich-picture/legenda-richPicture.png)
+<div style="display:flex; flex-direction:column;justify-content:center; align-items:center;">
 
-<h4 align = "center"> Figura 1: Componentes do rich picture </h4>
-<p align = "center"> Fonte: Autoria própria </p>
-<p align = "center"> Autor: Paulo Henrique, 2023 </p>
+![](../../public/rich-picture/legenda-richPicture.png)
+<h4> Figura 1: Componentes do rich picture </h4>
+<p> Fonte: Autoria própria </p>
+<p> Autor: Paulo Henrique, 2023 </p>
+
+</div>
+
 
 </div>
 
@@ -42,7 +46,6 @@
 <p align = "center"> Fonte: Autoria própria </p>
 <p align = "center"> Autor: Vitor Manoel, 2023 </p>
 
-
 Obtendo como resultado final o rich picture a seguir:
 
 ![](../../public/rich-picture/richPictureAmericanasFinal.png)
@@ -50,7 +53,6 @@ Obtendo como resultado final o rich picture a seguir:
 <h4 align = "center"> Figura 4: Rich picture final do sistema Americanas </h4>
 <p align = "center"> Fonte: Autoria própria </p>
 <p align = "center"> Autores: Paulo Henrique e Vitor Manoel, 2023 </p>
-
 
 </div>
 
@@ -68,7 +70,7 @@ A utilização de Rich Pictures permite a identificação de problemas de usabil
 
 ## Histórico de Versão
 
-| Versão | Data da alteração | Alteração                       | Responsável                                                                                        | Revisor | Data de rev |
-| ------ | ----------------- | ------------------------------- | -------------------------------------------------------------------------------------------------- | ------- | ----------- |
-| 1.0    | 13/09/2023        | Construção do documento | [Paulo Henrique](https://github.com/owhenrique) e [Vitor Manoel](https://github.com/vitormanoel17) | []()    |             |
-| 1.1    | 14/09/2023        | Adição de legenda de rich picture e correção de descrição de figuras | [Paulo Henrique](https://github.com/owhenrique) | []()    |             |
+| Versão | Data da alteração | Alteração                                                            | Responsável                                                                                        | Revisor | Data de rev |
+| ------ | ----------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------- | ----------- |
+| 1.0    | 13/09/2023        | Construção do documento                                              | [Paulo Henrique](https://github.com/owhenrique) e [Vitor Manoel](https://github.com/vitormanoel17) | []()    |             |
+| 1.1    | 14/09/2023        | Adição de legenda de rich picture e correção de descrição de figuras | [Paulo Henrique](https://github.com/owhenrique)                                                    | []()    |             |
