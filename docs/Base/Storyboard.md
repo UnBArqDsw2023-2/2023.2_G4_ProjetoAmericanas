@@ -57,29 +57,7 @@ Entrevistador: ;
 | 9 | O storyboard mostra como o produto resolve o problema ou a necessidade do usuário? | Sim | Verificar coerência |
 | 10 | O storyboard é adequado ao público-alvo do site americanas? | Sim | Verificar a adequação |
 | 11 | O storyboard demonstra os benefícios e as vantagens do produto? | Sim | Verificar o valor |
-| 12 | Está apresentado de maneira clara os fluxos tanto de cadastro, quanto de atividade de compra? | Sim | Verificar se a mensagem do fluxo estava clara |
-| 13 | Qual sugestão de melhoria você gostaria de compartilhar? | Aberta | Melhorar o storyboard e funções do site|
-<div style="text-align: center">
-    <p> <b>Tabela 1: </b> Perguntas realizadas (Fonte: PENHA, Igor. 2023).</p>
-</div>
-
-### Entrevista 3 - 
-Entrevistador: ;
-
-| Numero | Pergunta | Resposta | Objetivo |
-| :-: | - | :- | - |
-| 1 | O Fluxo em questão condiz com a realidade dos usuários? | Sim | Verificar a concordância |
-| 2 | O cenário que o storyboard está inserido condiz com a realidade? | Sim | Verificar a concordância |
-| 3 | As tarefas realizadas pelo usuário no storyboard condizem com o esperado? | Sim | Verificar a concordância |
-| 4 | O incentivo para o usuário realizar as tarefas no storyboard são satisfatórias? | Sim | Verificar a concordância |
-| 5 | Houve dificuldade ao realizar a interação com o storyboard? | Não | Verificar usabilidade |
-| 6 | O storyboard fornece informações necessárias para realização das tarefas desejadas? | Sim | Verificar usabilidade |
-| 7 | O ator principal completou seu objetivo na interação com o storyboard?? | Sim | Verificar usabilidade |
-| 8 | O storyboard é consistente com o estilo e a identidade visual do produto? | Não sei responder | Verificar a coerência |
-| 9 | O storyboard mostra como o produto resolve o problema ou a necessidade do usuário? | Sim | Verificar coerência |
-| 10 | O storyboard é adequado ao público-alvo do site americanas? | Sim | Verificar a adequação |
-| 11 | O storyboard demonstra os benefícios e as vantagens do produto? | Sim | Verificar o valor |
-| 12 | Está apresentado de maneira clara os fluxos tanto de cadastro, quanto de atividade de compra? | Sim | Verificar se a mensagem do fluxo estava clara |
+| 12 | Está apresentado de maneira clara os fluxos tanto de cadastro quanto de atividade de compra? | Sim | Verificar se a mensagem do fluxo estava clara |
 | 13 | Qual sugestão de melhoria você gostaria de compartilhar? | Aberta | Melhorar o storyboard e funções do site|
 <div style="text-align: center">
     <p> <b>Tabela 1: </b> Perguntas realizadas (Fonte: PENHA, Igor. 2023).</p>
@@ -101,11 +79,90 @@ Entrevistador: ;
 | 9 | O storyboard mostra como o produto resolve o problema ou a necessidade do usuário? | Sim | Verificar coerência |
 | 10 | O storyboard é adequado ao público-alvo do site americanas? | Sim | Verificar a adequação |
 | 11 | O storyboard demonstra os benefícios e as vantagens do produto? | Sim | Verificar o valor |
-| 12 | Está apresentado de maneira clara os fluxos tanto de cadastro, quanto de atividade de compra? | Sim | Verificar se a mensagem do fluxo estava clara |
+| 12 | Está apresentado de maneira clara os fluxos tanto de cadastro quanto de atividade de compra? | Sim | Verificar se a mensagem do fluxo estava clara |
 | 13 | Qual sugestão de melhoria você gostaria de compartilhar? | Aberta | Melhorar o storyboard e funções do site|
 <div style="text-align: center">
-    <p> <b>Tabela 1: </b> Perguntas realizadas (Fonte: PENHA, Igor. 2023).</p>
+    <p> <b>Tabela 2: </b> Perguntas realizadas (Fonte: PENHA, Igor. 2023).</p>
 </div>
+
+### Entrevista 3 - 
+Entrevistador: ;
+
+| Numero | Pergunta | Resposta | Objetivo |
+| :-: | - | :- | - |
+| 1 | O Fluxo em questão condiz com a realidade dos usuários? | Sim | Verificar a concordância |
+| 2 | O cenário que o storyboard está inserido condiz com a realidade? | Sim | Verificar a concordância |
+| 3 | As tarefas realizadas pelo usuário no storyboard condizem com o esperado? | Sim | Verificar a concordância |
+| 4 | O incentivo para o usuário realizar as tarefas no storyboard são satisfatórias? | Sim | Verificar a concordância |
+| 5 | Houve dificuldade ao realizar a interação com o storyboard? | Não | Verificar usabilidade |
+| 6 | O storyboard fornece informações necessárias para realização das tarefas desejadas? | Sim | Verificar usabilidade |
+| 7 | O ator principal completou seu objetivo na interação com o storyboard?? | Sim | Verificar usabilidade |
+| 8 | O storyboard é consistente com o estilo e a identidade visual do produto? | Não sei responder | Verificar a coerência |
+| 9 | O storyboard mostra como o produto resolve o problema ou a necessidade do usuário? | Sim | Verificar coerência |
+| 10 | O storyboard é adequado ao público-alvo do site americanas? | Sim | Verificar a adequação |
+| 11 | O storyboard demonstra os benefícios e as vantagens do produto? | Não sei responder | Verificar o valor |
+| 12 | Está apresentado de maneira clara os fluxos tanto de cadastro quanto de atividade de compra? | Sim | Verificar se a mensagem do fluxo estava clara |
+| 13 | Qual sugestão de melhoria você gostaria de compartilhar? | Aberta | Melhorar o storyboard e funções do site|
+<div style="text-align: center">
+    <p> <b>Tabela 3: </b> Perguntas realizadas (Fonte: PENHA, Igor. 2023).</p>
+</div>
+
+
+## Sugestões e Problemas Encontrados
+A seguir, seguem alguns dos problemas e sugestões obtidos a partir da pergunta 13 do questionário passado ao entrevistado:
+
+Problemas:
+- João Nobrega: Dificuldade de utilizar algumas tarefas por necessitar ter conta gov com nível prata.
+
+- Cícero Barrozo: Em um storyboard específico, o de Registrato, ficou faltando contexto à história.
+
+- Samuel Alves: O site redireciona algumas vezes para abas externas.
+
+Sugestões:
+- Bruno Lazar: Acessar todas as funcionalidades do site sem ter necessidade de ter uma conta gov com nível.
+
+
+## Análise dos dados
+
+Na tabela 6 a seguir, foram somadas as respostas de todas as questões, afim de auxiliar na análise dos dados obtidos nas entrevistas.
+
+| Numero | Pergunta | [Quantidade] Resposta | Objetivo |
+| :-: | - | :- | - |
+| 1 | Os usuários envolvidos no storyboard condizem com a realidade? | [5] Sim | Verificar a concordância |
+| 2 | O cenário que o storyboard está inserido condiz com a realidade? | [5] Sim | Verificar a concordância |
+| 3 | As tarefas realizadas pelo usuário no storyboard condizem com o esperado? | [5] Sim | Verificar a concordância |
+| 4 | O incentivo para o usuário realizar as tarefas no storyboard são satisfatórias? | [4] Sim <br> [1] Não sei responder| Verificar a concordância |
+| 5 | Houve dificuldade ao realizar a interação com o storyboard? | [5] Não | Verificar usabilidade |
+| 6 | O storyboard fornece informações necessárias para realização das tarefas desejadas? | [4] Sim <br> [1] Não sei responder | Verificar usabilidade |
+| 7 | O ator principal completou seu objetivo na interação com o storyboard? | [5] Sim | Verificar usabilidade |
+| 8 | O storyboard é consistente com o estilo e a identidade visual do produto? | [3] Sim <br> [2] Não sei responder | Verificar a coerência |
+| 9 | O storyboard mostra como o produto resolve o problema ou a necessidade do usuário? | [5] Sim | Verificar coerência |
+| 10 | O storyboard é adequado ao público-alvo do produto? | [4] Sim <br> [1] Não sei responder | Verificar a adequação |
+| 11 | O storyboard demonstra os benefícios e as vantagens do produto? | [4] Sim <br> [1] Não sei responder | Verificar o valor |
+| 12 | Está apresentado de maneira clara os fluxos tanto de cadastro quanto de atividade de compra? | 
+| 13 | Qual sugestão de melhoria você gostaria de compartilhar? | Aberta | Melhorar o storyboard |
+<div style="text-align: center">
+    <p> <b>Tabela 4: </b> Dados organizados (Fonte: PENHA, Igor. 2023).</p>
+</div>
+
+## Gravação das entrevistas
+Todas as entrevistas foram gravadas e estão disponíveis para visualização abaixo, do vídeo 2 ao 6:
+
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/OJ02eL5vl3E" title="Entrevista Participante 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div align="center">
+<p> <b>Vídeo 2</b>: gravação entrevista 1 (Fonte: PENHA, Igor. 2023).</p>
+</div>
+
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/OJ02eL5vl3E" title="Entrevista Participante 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div align="center">
+<p> <b>Vídeo 3</b>: gravação entrevista 2 (Fonte: PENHA, Igor. 2023).</p>
+</div>
+
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/OJ02eL5vl3E" title="Entrevista Participante 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div align="center">
+<p> <b>Vídeo 4</b>: gravação entrevista 3 (Fonte: PENHA, Igor. 2023).</p>
+</div>
+
 
 ## Conclusão
 
