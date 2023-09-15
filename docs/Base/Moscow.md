@@ -77,4 +77,4 @@ Legenda:
 
 | Versão | Data de alteração  | Alteração |  Responsável    | Revisor     |  Data de revisão  |
 | :----: | :---------------: | :-------------: | :-----------: | :-----------: | :-----------: |
-| `1.0` | 15/09/2023 | Criação do documento | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | [Igor Penha](https://github.com/igorpenhaa) | 15/09/2023 |
+| `1.0` | 15/09/2023 | Criação do documento | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Igor Penha](https://github.com/igorpenhaa) | [Rafael Bosi](https://github.com/StrangeUnit28) | 15/09/2023 |
