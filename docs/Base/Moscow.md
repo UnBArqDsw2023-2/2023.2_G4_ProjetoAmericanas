@@ -103,7 +103,7 @@
 | BS37 | A plataforma deve permitir que o usuário adicione um cupom | Should |
 
 <div style="text-align: center">
-<p> Tabela 3: Priorização do fluxode compra do produto (Fonte: RIBEIRO, Bruno. 2023).</p>
+<p> Tabela 3: Priorização do fluxo de compra do produto (Fonte: RIBEIRO, Bruno. 2023).</p>
 </div>
 
 ### Em relação ao fluxo de pagamento do produto
