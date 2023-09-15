@@ -125,8 +125,6 @@
 <p> Tabela 4: Priorização do fluxo de pagamento do produto (Fonte: RIBEIRO, Bruno. 2023).</p>
 </div>
 
-<div style="text-align:center"> Tabela 1: Priorização dos requisitos de acordo com método Moscow</div>
-
 ## Referências
 
 1. Wiegers, K. and Beatty, J., 2013. Software requirements. Pearson Education.
