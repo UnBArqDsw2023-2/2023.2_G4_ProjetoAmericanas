@@ -60,7 +60,7 @@ Na etapa de "Decision" de um processo de "Design Sprint", a equipe se concentra 
 de "Sketch" para determinar qual delas será a escolhida para ser prototipada e testada. Essa fase é crucial para a seleção da abordagem mais 
 promissora e exige a criação de alguns artefatos importantes que facilitam a tomada de decisão informada. Para essa fase elaboramos:
 
-- [Rich Picture](https://unbarqdsw2023-2.github.io/2023.2_G4_ProjetoAmericanas/#/Base/richPicture)
+- [Léxico](https://unbarqdsw2023-2.github.io/2023.2_G4_ProjetoAmericanas/#/Base/Lexicos)
 - [Storyboard](https://unbarqdsw2023-2.github.io/2023.2_G4_ProjetoAmericanas/#/Base/Storyboard)
 
 ### 3.4. Parte 4 - Prototipagem
