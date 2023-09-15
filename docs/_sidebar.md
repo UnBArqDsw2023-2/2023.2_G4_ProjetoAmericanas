@@ -18,6 +18,7 @@
     - [Brainstorming](Base/Brainstorming.md)
     - [Léxicos](Base/Lexicos.md)
     - [Mapa Mental](Base/1.MapaMental.md)
+    - [Protótipo](Base/Prototipo.md)
     - [Rich Picture](Base/richPicture.md)
     - [Storyboard](Base/Storyboard.md)
 <!-- 
