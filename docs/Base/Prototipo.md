@@ -33,4 +33,4 @@
 
 |  Versão  |   Data da alteração  |   Alteração  |  Responsável  |  Revisor  | Data de revisão |
 | :--------: | :--------------------: | :-----------: | :--------------: | :--------: | :-----------------: |
-|     1.0     |    151/09/2023   |  Criando documento  |  [Lucas Gobbi](https://github.com/lucasbergholz)   |    |  |
+|     1.0     | 15/09/2023   |  Criando documento  | [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Igor Penha](https://github.com/igorpenhaa) e [Lucas Gobbi](https://github.com/LucasBergholz)   |  [Rafael Bosi](https://github.com/StrangeUnit28) | 15/09/2023 |
