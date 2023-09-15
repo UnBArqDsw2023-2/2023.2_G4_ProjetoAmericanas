@@ -22,6 +22,9 @@
     - [Mapa Mental](Base/1.MapaMental.md)
     - [Rich Picture](Base/richPicture.md)
     - [Storyboard](Base/Storyboard.md)
+    - [Moscow](Base/Moscow.md)
+    - [Termo de Concentimento](Base/Termo_Concentimento.md)
+    - [Protótipo](Base/Prototipo.md)
 <!-- 
 - **Modelagem**
   - [2. Desenho de Software (Modelagem)](Modelagem/2.Modelagem.md)
