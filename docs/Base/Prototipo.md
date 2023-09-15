@@ -21,7 +21,7 @@
 &emsp;&emsp;Foi desenvolvido um protótipo de apenas 1 fluxo, o qual abriga todas as etapas destinadas ao grupo 4, que começa na parte de cadastro do usuário e finaliza com a compra de um produto. O protótipo pode ser visto abaixo: 
 </div>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FkK49SfOmyiBDhJIntb2MAc%2FProt%25C3%25B3tipo-Alta-Fidelidade---ADS%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3Du887CzrDM1GHS8Tf-1" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FkK49SfOmyiBDhJIntb2MAc%2FProt%25C3%25B3tipo-Alta-Fidelidade---ADS%3Fpage-id%3D0%253A1%26type%3Ddesign%26node-id%3D1-12%26viewport%3D425%252C378%252C0.09%26t%3D1bmOqonDkWf6kjhe-1%26scaling%3Dmin-zoom%26mode%3Ddesign" allowfullscreen></iframe>
 
 ## Referências
 
