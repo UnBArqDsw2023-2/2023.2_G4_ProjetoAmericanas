@@ -101,7 +101,7 @@
 
 5. O perfil do comprador elencado para a plataforma é caracterizado por pessoas com acesso à internet e experiência em compras online. A faixa etária desses compradores varia de 16 a 60 anos, abrangendo uma ampla gama de idades. Eles são pessoas que possuem CPF ou CNPJ e têm pelo menos um email ou acesso a um. Esses compradores também têm acesso à tecnologia, contas bancárias ou acesso a lotéricas para efetuar pagamentos. Além disso, eles fornecem um número de telefone para comunicação e são, portanto, facilmente alcançáveis. No geral, o perfil do comprador da Americanas é diversificado em termos de idade, mas compartilha a capacidade de utilizar a internet e a tecnologia para fazer compras online e realizar transações financeiras.
 
-&emsp;&emsp;Após analisar cuidadosamente as conclusões apresentadas em relação aos resultados do Brainstorming foi possível elicitar os seguintes requisitos:
+&emsp;&emsp;Após analisar cuidadosamente as conclusões apresentadas em relação aos resultados do Brainstorming foi possível elicitar os seguintes requisitos que serão apresentados nas tabelas de 1 a 4 a seguir:
 
 **Em ralação ao fluxo de cadastro na plataforma:**
 
@@ -119,6 +119,10 @@
 | BS10 | A plataforma deve exigir que o usuário defina se deseja receber promoções por email |
 | BS11 | A plataforma deve exigir o número de telefone do usuário |
 | BS12 | A plataformaa deve exigir o CEP do usuário |
+
+<div style="text-align: center">
+<p> Tabela 1: Requisitos do fluxo de cadastro (Fonte: PENHA, Igor. 2023).</p>
+</div>
 
 <br>
 
@@ -142,6 +146,10 @@
 | BS26 | A plataforma deve exibir itens semelhantes a cada produto |
 | BS27 | A plataforma deve apresentar a opção de filtrar por marca |
 
+<div style="text-align: center">
+<p> Tabela 2: Requisitos do fluxo de visualização do produto (Fonte: PENHA, Igor. 2023).</p>
+</div>
+
 <br>
 
 **Em relação ao fluxo de compra do produto:**
@@ -158,6 +166,10 @@
 | BS35 | A plataforma deve fornecer a possibilidade de adicionar mais de um item ao carrinho |
 | BS36 | A plataforma deve permitir o cancelamento da compra |
 | BS37 | A plataforma deve permitir que o usuário adicione um cupom |
+
+<div style="text-align: center">
+<p> Tabela 3: Requisitos do fluxo de compra do produto (Fonte: PENHA, Igor. 2023).</p>
+</div>
 
 <br>
 
@@ -176,6 +188,12 @@
 | BS46 | A plataforma deve oferecer a opção de vincular o CPF ou o CNPJ à nota fiscal |
 | BS47 | A plataforma deve confirmar o pagamento por email |
 
+<div style="text-align: center">
+<p> Tabela 4: Requisitos do fluxo de pagamento do produto (Fonte: PENHA, Igor. 2023).</p>
+</div>
+
+</br>
+
 
 &emsp;&emsp;Importante ressaltar que os requisitos marcados como alta prioridade, são essenciais no desenvolvimento de um produto final de sucesso, já os marcados com uma prioridade média, são requisitos importantes, mas não essenciais para o produto final. Os marcados como baixa prioridade, são requisitos que acrescentam pouco ao produto, portanto sua implementação é indiferente.
 
@@ -192,3 +210,4 @@
 |  1.0   |       05/09       |         Criando documento         | [Rafael Bosi](https://github.com/StrangeUnit28) |   [Gustavo Barbosa](https://github.com/brbsg)   |      07/09      |
 |  1.1   |       12/09       | Adição do brainstorm e da reunião | [Rafael Bosi](https://github.com/StrangeUnit28) |   [Gustavo Barbosa](https://github.com/brbsg)   |      13/09      |
 |  1.2   |       14/09       | Adição da conclusão do Brainstorm |   [Gustavo Barbosa](https://github.com/brbsg)   | [Rafael Bosi](https://github.com/StrangeUnit28) |      14/09      |
+|  1.3   |       15/09       | Adição dos requisitos elicitados | [Bruno Ribeiro](https://github.com/brunoriibeiro), [Igor Penha](https://github.com/igorpenhaa) e [Rafael Bosi](https://github.com/StrangeUnit28) | [Bruno Martins](https://github.com/gitbmvb) |      15/09      |
