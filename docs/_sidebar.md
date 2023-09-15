@@ -1,12 +1,14 @@
-<!-- docs/_sidebar.md -->
-
+<!-- _sidebar.md -->
 - [Home](/)
 - [Diretrizes](Diretrizes/Diretrizes.md)
 - Atas de Reunião
   - [Reunião 1](Atas/reuniao01.md)
 
 - **Base**
+- [Home](/docs)
+- [Diretrizes](/Diretrizes/Diretrizes.md)
 
+- **Base**
   - [1. Desenho de Software (Base)](/Base/1.Base.md)
     - [1.1. Módulo Projeto Não Orientado a Abordagens Específicas](/Base/1.1.AbordagemNaoEspecifica.md)
     - [1.2. Módulo Processos/Metodologias/Abordagens](/Base/1.2.ProcessosMetodologiasAbordagens.md)
@@ -36,4 +38,3 @@
     - [4.1. Módulo Estilos e Padrões Arquiteturais](ArquiteturaReutilizacao/4.1.PadroesArquiteturais.md)
     - [4.2. Módulo Reutilização de Software](ArquiteturaReutilizacao/4.2.ReutilizacaoDeSoftware.md)
     - [4.3. Participações - Arquitetura & Reutilização de Software](ArquiteturaReutilizacao/4.3.ParticipacoesArqReutilizacao.md) -->
-
