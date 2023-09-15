@@ -76,7 +76,6 @@ antes de investir tempo e recursos significativos no desenvolvimento completo do
 </div>
 
 - [Google Ventures](http://www.gv.com/sprint/);
-- [Trabalho de um grupo semestre 2018.2](https://desenhosoftware-2018-2.github.io/wiki/designsprint)
 
 ## 5. Histórico de Versão
 
