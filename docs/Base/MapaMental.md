@@ -47,9 +47,12 @@ Analisar sob o ponto de vista de um comprador.
 
 A primeira versão do mapa mental foi elaborada passo a passo, acompanhando cada etapa do fluxo e registrando os detalhes de cada passo executado. Essa versão foi criada antes da sessão de brainstorming, portanto, estava mais centrada nas etapas e nos raciocínios lógicos necessários para a execução de cada fluxo.
 
-<div align="justify">
+<p align="center">
     <img src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G4_ProjetoAmericanas/main/docs/images/mapa-mental-v1.jpg" alt="Primeira versão Mapa mental" width="768" height="432">
-</div>
+</p>
+<p align="center">
+Figura 1 - Mapa Mental Versão 1<br>Autor: Elaboração Própria
+</p> <br>
 
 ### Versão 2 (Final)
 
@@ -70,4 +73,4 @@ SERRANO, Milene. "Aula - Projeto e Desenho de Software" .
 |  Versão  |   Data da alteração  |   Alteração  |  Responsável  |  Revisor  | Data de revisão |
 | :--------: | :--------------------: | :-----------: | :--------------: | :--------: | :-----------------: |
 |     1.0     |    11/09      |  Introdução, objetivo e metodologia  |  [Bernardo Pissutti](https://github.com/berssutti)   | [Marcos Felipe](https://github.com/marofelipe)   | 14/09 |
-|     2.0     |    14/09      |  Versões do artefato  |  [Marcos Felipe](https://github.com/marofelipe)   |    | |
+|     2.0     |    14/09      |  Versões do artefato  |  [Marcos Felipe](https://github.com/marofelipe)   |  [Marcos Felipe](https://github.com/marofelipe)  | 15/09 |
