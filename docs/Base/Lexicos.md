@@ -313,7 +313,11 @@ Descrição_Projeto: Americanas, Perfil Comprador, e fluxos compreendidos do cad
 
 ## Referência
 
-[1] SERRANO, Milene. Requisitos - Aula 10. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color.
+[1] **SERRANO, Milene**. Requisitos - Aula 10. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color.
+
+[2] **SAMPAIO LEITE, Júlio César**. Léxico Ampliado da Linguagem (resumo). Apresentação do Powerpoint. Disponível em: [https://www-di.inf.puc-rio.br/~julio/lal.pdf](https://www-di.inf.puc-rio.br/~julio/lal.pdf). Acesso em 14 set. 2023.
+
+[3] **SERRANO, Milene**. Aula - Projeto e Desenho de Software. Apresentação do Powerpoint. Disponível [aqui](ADS_slides.pdf). Acesso em 14 set. 2023.
 
 ## Histórico de Versões
 
