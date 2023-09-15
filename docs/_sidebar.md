@@ -11,11 +11,11 @@
     - [1.2. Módulo Processos/Metodologias/Abordagens](Base/1.2.ProcessosMetodologiasAbordagens.md)
     - [1.3. Participações - Base](Base/1.3.ParticipacoesBase.md)
     - [Design Sprint](Base/DesignSprint.md)
-    - [5W2H](Base/5W2H.md)
+    - [5W2H](Base/5w2h.md)
     - [Brainstorming](Base/Brainstorming.md)
     - [Léxicos](Base/Lexicos.md)
-    - [Mapa Mental](Base/MapaMental.md)
-    - [Rich Picture](Base/RichPicture.md)
+    - [Mapa Mental](Base/1.MapaMental.md)
+    - [Rich Picture](Base/richPicture.md)
     - [Storyboard](Base/Storyboard.md)
 <!-- 
 - **Modelagem**
