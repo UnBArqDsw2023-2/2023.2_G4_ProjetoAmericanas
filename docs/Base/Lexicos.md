@@ -311,9 +311,9 @@ Descrição_Projeto: Americanas, Perfil Comprador, e fluxos compreendidos do cad
 </div>
 </br>
 
-## Referência Bibliográfica
+## Referência
 
-[1] SERRANO, Milene. 
+[1] SERRANO, Milene. Requisitos - Aula 10. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35, color.
 
 ## Histórico de Versões
 
