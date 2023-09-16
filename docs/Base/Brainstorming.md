@@ -58,7 +58,7 @@
 |      [Igor Penha](https://github.com/igorpenhaa)       | Participante |
 |    [Lucas Gobbi](https://github.com/LucasBergholz)     | Participante |
 |     [Marcos Felipe](https://github.com/Marofelipe)     | Participante |
-|     [Paulo Henrique](https://github.com/owhenrique)     | Participante |
+|     [Paulo Henrique](https://github.com/owhenrique)    | Participante |
 |    [Rafael Bosi](https://github.com/StrangeUnit28)     | Facilitador  |
 |    [Vitor Manoel](https://github.com/vitormanoel17)    | Participante |
 
@@ -101,11 +101,107 @@
 
 5. O perfil do comprador elencado para a plataforma é caracterizado por pessoas com acesso à internet e experiência em compras online. A faixa etária desses compradores varia de 16 a 60 anos, abrangendo uma ampla gama de idades. Eles são pessoas que possuem CPF ou CNPJ e têm pelo menos um email ou acesso a um. Esses compradores também têm acesso à tecnologia, contas bancárias ou acesso a lotéricas para efetuar pagamentos. Além disso, eles fornecem um número de telefone para comunicação e são, portanto, facilmente alcançáveis. No geral, o perfil do comprador da Americanas é diversificado em termos de idade, mas compartilha a capacidade de utilizar a internet e a tecnologia para fazer compras online e realizar transações financeiras.
 
+&emsp;&emsp;Após analisar cuidadosamente as conclusões apresentadas em relação aos resultados do Brainstorming foi possível elicitar os seguintes requisitos que serão apresentados nas tabelas de 1 a 4 a seguir:
+
+**Em ralação ao fluxo de cadastro na plataforma:**
+
+| <p align="center">ID</p> | <p align="center">Requisito</p> |
+| :--: | :-------------------------------------------------: |
+| BS01 | A plataforma deve armazenar dados do usuário |
+| BS02 | A plataforma deve exigir o nome completo do usuário |
+| BS03 | A plataforma deve exigir o email do usuário |
+| BS04 | A plataforma deve exigir que o usuário confirma o email |
+| BS05 | A plataforma deve exigir uma senha e que o usuário a confirme |
+| BS06 | A plataforma deve exigir que a senha possua mais de 8 caracteres |
+| BS07 | A plataforma deve exigir o CPF do usuário |
+| BS08 | A plataforma deve exigir a data de nascimento do usuário | 
+| BS09 | A plataforma deve diminuir o número de dados exigidos do usuário | 
+| BS10 | A plataforma deve exigir que o usuário defina se deseja receber promoções por email |
+| BS11 | A plataforma deve exigir o número de telefone do usuário |
+| BS12 | A plataformaa deve exigir o CEP do usuário |
+
+<div style="text-align: center">
+<p> Tabela 1: Requisitos do fluxo de cadastro (Fonte: PENHA, Igor. 2023).</p>
+</div>
+
+<br>
+
+**Em relação ao fluxo de visualização do produto:**
+
+| <p align="center">ID</p> | <p align="center">Requisito</p> |
+| :--: | :-------------------------------------------------: |
+| BS13 | A plataforma deve apresentar uma search bar |
+| BS14 | A plataforma deve exibir um catálogo de produtos |
+| BS15 | A plataforma deve apresentar filtros |
+| BS16 | A plataforma deve apresentar uma página para cada produto |
+| BS17 | A plataforma deve exibir uma ficha técnica para cada produto |
+| BS18 | A plataforma deve apresentar fotos de cada produto |
+| BS19 | A plataforma deve permitir que o produto possa ser avaliado |
+| BS20 | A plataforma deve apresentar uma área destinada a dúvidas sobre cada produto |
+| BS21 | A plataforma deve exibir um botão de compra |
+| BS22 | A plataforma deve apresentar uma lista de sugestões vinculada a search bar |
+| BS23 | A plataforma deve exibir a opção de visualizar o catálogo em lista ou em cards |
+| BS24 | A plataforma deve conseguir ordenar os produtos |
+| BS25 | A plataforma deve apresentar uma área destinada a comentários em relação a cada produto |
+| BS26 | A plataforma deve exibir itens semelhantes a cada produto |
+| BS27 | A plataforma deve apresentar a opção de filtrar por marca |
+
+<div style="text-align: center">
+<p> Tabela 2: Requisitos do fluxo de visualização do produto (Fonte: PENHA, Igor. 2023).</p>
+</div>
+
+<br>
+
+**Em relação ao fluxo de compra do produto:**
+
+| <p align="center">ID</p> | <p align="center">Requisito</p> |
+| :--: | :-------------------------------------------------: |
+| BS28 | A plataforma deve exibir um carrinho de compras |
+| BS29 | A plataforma deve permitir que o usuário defina a transportadora |
+| BS30 | A plataforma deve permitir que o usuário remova itens do carrinho |
+| BS31 | A plataforma deve incluir o frete no valor do produto |
+| BS32 | A plataforma deve confirmar os dados do usuário |
+| BS33 | A plataforma deve exigir o endereço do usuário |
+| BS34 | A plataforma deve detalhar o preço do produto |
+| BS35 | A plataforma deve fornecer a possibilidade de adicionar mais de um item ao carrinho |
+| BS36 | A plataforma deve permitir o cancelamento da compra |
+| BS37 | A plataforma deve permitir que o usuário adicione um cupom |
+
+<div style="text-align: center">
+<p> Tabela 3: Requisitos do fluxo de compra do produto (Fonte: PENHA, Igor. 2023).</p>
+</div>
+
+<br>
+
+**Em realação ao fluxo de pagamento do produto:**
+
+| <p align="center">ID</p> | <p align="center">Requisito</p> |
+| :--: | :-------------------------------------------------: |
+| BS38 | A plataforma deve exigir os dados do cartão do usuário (CVV, CPF, Validade e Número) |
+| BS39 | A plataforma deve ter a possibilidade de emitir boleto |
+| BS40 | A plataforma deve conseguir gerar chave ou QRcode de pagamento por Pix |
+| BS41 | A plataforma deve apresentar a possibilidade de TED e DOC |
+| BS42 | A plataforma deve emitir nota fiscal por email |
+| BS43 | A plataforma deve oferecer a opção de parcelar |
+| BS44 | A plataforma deve exigir que o usuário selecione uma opção de pagamento |
+| BS45 | A plataforma deve fornecer a opção de imprimir o boleto |
+| BS46 | A plataforma deve oferecer a opção de vincular o CPF ou o CNPJ à nota fiscal |
+| BS47 | A plataforma deve confirmar o pagamento por email |
+
+<div style="text-align: center">
+<p> Tabela 4: Requisitos do fluxo de pagamento do produto (Fonte: PENHA, Igor. 2023).</p>
+</div>
+
+</br>
+
+
+&emsp;&emsp;Importante ressaltar que os requisitos marcados como alta prioridade, são essenciais no desenvolvimento de um produto final de sucesso, já os marcados com uma prioridade média, são requisitos importantes, mas não essenciais para o produto final. Os marcados como baixa prioridade, são requisitos que acrescentam pouco ao produto, portanto sua implementação é indiferente.
+
 </div>
 
 ## Referências
 
-SMITH, John. "Brainstorming: Técnicas para Geração de Ideias Criativas." São Paulo: Editora ABC, 2020.
+[1] SMITH, John. "Brainstorming: Técnicas para Geração de Ideias Criativas." São Paulo: Editora ABC, 2020.
 
 ## Histórico de Versão
 
@@ -114,3 +210,4 @@ SMITH, John. "Brainstorming: Técnicas para Geração de Ideias Criativas." São
 |  1.0   |       05/09       |         Criando documento         | [Rafael Bosi](https://github.com/StrangeUnit28) |   [Gustavo Barbosa](https://github.com/brbsg)   |      07/09      |
 |  1.1   |       12/09       | Adição do brainstorm e da reunião | [Rafael Bosi](https://github.com/StrangeUnit28) |   [Gustavo Barbosa](https://github.com/brbsg)   |      13/09      |
 |  1.2   |       14/09       | Adição da conclusão do Brainstorm |   [Gustavo Barbosa](https://github.com/brbsg)   | [Rafael Bosi](https://github.com/StrangeUnit28) |      14/09      |
+|  1.3   |       15/09       | Adição dos requisitos elicitados | [Bruno Ribeiro](https://github.com/brunoriibeiro), [Igor Penha](https://github.com/igorpenhaa) e [Rafael Bosi](https://github.com/StrangeUnit28) | [Bruno Martins](https://github.com/gitbmvb) |      15/09      |

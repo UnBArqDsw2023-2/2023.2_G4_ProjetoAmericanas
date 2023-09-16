@@ -1,4 +1,6 @@
 <!-- _sidebar.md -->
+![](https://logodownload.org/wp-content/uploads/2020/11/lojas-americanas-logo-1.png)
+
 - [Home](/)
 - [Diretrizes](Diretrizes/Diretrizes.md)
 - Atas de Reunião
@@ -17,9 +19,12 @@
     - [5W2H](Base/5w2h.md)
     - [Brainstorming](Base/Brainstorming.md)
     - [Léxicos](Base/Lexicos.md)
-    - [Mapa Mental](Base/MapaMental.md)
+    - [Mapa Mental](Base/1.MapaMental.md)
     - [Rich Picture](Base/richPicture.md)
     - [Storyboard](Base/Storyboard.md)
+    - [Moscow](Base/Moscow.md)
+    - [Termo de Concentimento](Base/Termo_Concentimento.md)
+    - [Protótipo](Base/Prototipo.md)
 <!-- 
 - **Modelagem**
   - [2. Desenho de Software (Modelagem)](Modelagem/2.Modelagem.md)
