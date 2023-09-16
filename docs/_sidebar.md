@@ -7,7 +7,6 @@
   - [Reunião 1](Atas/reuniao01.md)
 
 - **Base**
-- [Home](/docs)
 - [Diretrizes](/Diretrizes/Diretrizes.md)
 
 - **Base**
