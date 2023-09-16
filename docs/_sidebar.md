@@ -7,7 +7,6 @@
   - [Reunião 1](Atas/reuniao01.md)
 
 - **Base**
-- [Home](/docs)
 - [Diretrizes](/Diretrizes/Diretrizes.md)
 
 - **Base**
@@ -19,7 +18,7 @@
     - [5W2H](Base/5w2h.md)
     - [Brainstorming](Base/Brainstorming.md)
     - [Léxicos](Base/Lexicos.md)
-    - [Mapa Mental](Base/1.MapaMental.md)
+    - [Mapa Mental](Base/MapaMental.md)
     - [Rich Picture](Base/richPicture.md)
     - [Storyboard](Base/Storyboard.md)
     - [Moscow](Base/Moscow.md)
