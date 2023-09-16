@@ -19,7 +19,7 @@
 
 <div align = "center">
 
-![](../public/rich-picture/legenda-richPicture.png)
+![](../images/rich-picture/legenda-richPicture.png)
 <h4> Figura 1: Componentes do rich picture </h4>
 <p> Fonte: Autoria própria </p>
 <p> Autor: Paulo Henrique, 2023 </p>
@@ -33,7 +33,7 @@
 
 <div align="center">
 
-![](../public/rich-picture/richPicture2Americanas.png)
+![](../images/rich-picture/richPicture2Americanas.png)
 </div>
 <h4 align = "center"> Figura 2: Rich picture do sistema Americanas </h4>
 <p align = "center"> Fonte: Autoria própria </p>
@@ -41,7 +41,7 @@
 
 <div align="center">
 
-![](../public/rich-picture/richPictureAmericanas.jpg)
+![](../images/rich-picture/richPictureAmericanas.jpg)
 </div>
 
 <h4 align = "center"> Figura 3: Rich picture do sistema Americanas </h4>
@@ -51,7 +51,7 @@
 Obtendo como resultado final o rich picture a seguir:
 <div align="center">
 
-![](../public/rich-picture/richPictureAmericanasFinal.png)
+![](../images/rich-picture/richPictureAmericanasFinal.png)
 </div>
 <h4 align = "center"> Figura 4: Rich picture final do sistema Americanas </h4>
 <p align = "center"> Fonte: Autoria própria </p>
@@ -68,7 +68,8 @@ A utilização de Rich Pictures permite a identificação de problemas de usabil
 
 ## Referências
 
-> - Jackson, M. C. (2013, June 29). Systems Methodology for the Management Sciences. Springer Science & Business Media.- Checkland, P. (1999, September 28). Systems Thinking, Systems Practice. John Wiley & Sons.
+> - Jackson, M. C. (2013, June 29). Systems Methodology for the Management Sciences. Springer Science & Business Media.
+> - Checkland, P. (1999, September 28). Systems Thinking, Systems Practice. John Wiley & Sons.
 > - Software Development Project. Rich Picture Guideline [CTEC2402]
 
 ## Histórico de Versão
@@ -77,3 +78,4 @@ A utilização de Rich Pictures permite a identificação de problemas de usabil
 | ------ | ----------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------- | ----------- |
 | 1.0    | 13/09/2023        | Construção do documento                                              | [Paulo Henrique](https://github.com/owhenrique) e [Vitor Manoel](https://github.com/vitormanoel17) | [Lucas Gobbi](https://github.com/LucasBergholz)     |      14/09/2023       |
 | 1.1    | 14/09/2023        | Adição de legenda de rich picture e correção de descrição de figuras | [Paulo Henrique](https://github.com/owhenrique)                                                    | [Lucas Gobbi](https://github.com/LucasBergholz)    |       14/09/2023       |
+| 1.2    | 14/09/2023        | Correção do diretório de imagens | [Paulo Henrique](https://github.com/owhenrique)                                                    | [Lucas Gobbi](https://github.com/LucasBergholz)    |       14/09/2023       |
