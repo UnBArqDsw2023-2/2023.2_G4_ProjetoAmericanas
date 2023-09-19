@@ -18,15 +18,15 @@ A seguir, seguem os storyboards desenvolvidos, representados nas figuras de 1 a 
 
 <p align="justify">A Figura 1 apresenta o StoryBoard onde o usuário realiza a tarefa de comprar um produto no site.</p>
 
-<img title="a title" alt="SB 01" src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G4_ProjetoAmericanas/main/docs/Base/img/sb1.png" width="100%">
+<img title="a title" alt="SB 01" src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G4_ProjetoAmericanas/main/docs/images/t1-Base/sb1.png" width="100%">
 
 <p align="justify">A Figura 2 apresenta o StoryBoard onde o usuário realiza a tarefa de avaliar um produto no site.</p>
 
-<img title="a title" alt="SB 01" src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G4_ProjetoAmericanas/main/docs/Base/img/sb2.png" width="100%">
+<img title="a title" alt="SB 01" src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G4_ProjetoAmericanas/main/docs/images/t1-Base/sb2.png" width="100%">
 
 <p align="justify">A Figura 3 apresenta o StoryBoard onde o usuário realiza a tarefa de comentar sobre um produto no site.</p>
 
-<img title="a title" alt="SB 01" src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G4_ProjetoAmericanas/main/docs/Base/img/sb3.png" width="100%">
+<img title="a title" alt="SB 01" src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G4_ProjetoAmericanas/main/docs/images/t1-Base/sb3.png" width="100%">
 
 ## Dados obtidos
 
