@@ -19,7 +19,7 @@
 
 <div align = "center">
 
-![](../images/rich-picture/legenda-richPicture.png)
+<img title="a title" alt="RP 01" src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G4_ProjetoAmericanas/main/docs/images/t1-Base/legenda-richPicture.png" width="100%">
 <h4> Figura 1: Componentes do rich picture </h4>
 <p> Fonte: Autoria própria </p>
 <p> Autor: Paulo Henrique, 2023 </p>
@@ -33,7 +33,8 @@
 
 <div align="center">
 
-![](../images/rich-picture/richPicture2Americanas.png)
+  <img title="a title" alt="RP 02" src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G4_ProjetoAmericanas/main/docs/images/t1-Base/richPicture2Americanas.png" width="100%">
+
 </div>
 <h4 align = "center"> Figura 2: Rich picture do sistema Americanas </h4>
 <p align = "center"> Fonte: Autoria própria </p>
@@ -41,7 +42,8 @@
 
 <div align="center">
 
-![](../images/rich-picture/richPictureAmericanas.jpg)
+  <img title="a title" alt="RP 03" src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G4_ProjetoAmericanas/main/docs/images/t1-Base/richPictureAmericanas.jpg" width="100%">
+
 </div>
 
 <h4 align = "center"> Figura 3: Rich picture do sistema Americanas </h4>
@@ -51,7 +53,8 @@
 Obtendo como resultado final o rich picture a seguir:
 <div align="center">
 
-![](../images/rich-picture/richPictureAmericanasFinal.png)
+  <img title="a title" alt="RP 04" src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G4_ProjetoAmericanas/main/docs/images/t1-Base/richPictureAmericanasFinal.png" width="100%">
+
 </div>
 <h4 align = "center"> Figura 4: Rich picture final do sistema Americanas </h4>
 <p align = "center"> Fonte: Autoria própria </p>
