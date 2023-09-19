@@ -48,7 +48,7 @@ Analisar sob o ponto de vista de um comprador.
 A primeira versão do mapa mental foi elaborada passo a passo, acompanhando cada etapa do fluxo e registrando os detalhes de cada passo executado. Essa versão foi criada antes da sessão de brainstorming, portanto, estava mais centrada nas etapas e nos raciocínios lógicos necessários para a execução de cada fluxo.
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G4_ProjetoAmericanas/main/docs/images/mapa-mental-v1.jpg" alt="Primeira versão Mapa mental" width="768" height="432">
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G4_ProjetoAmericanas/main/docs/images/t1-Base/mapa-mental-v1.jpg" alt="Primeira versão Mapa mental" width="768" height="432">
 </p>
 <p align="center">
 Figura 1 - Mapa Mental Versão 1<br>Autor: Elaboração Própria
