@@ -3,9 +3,7 @@
 ## Introdução
 
 <div align="justify">
-&emsp;&emsp;Um diagrama de classes é uma ferramenta fundamental na modelagem de sistemas de software, permitindo a representação visual das classes, seus atributos, métodos e os relacionamentos entre elas. Esses diagramas fazem parte da linguagem de modelagem UML (Unified Modeling Language) e desempenham um papel crucial no processo de desenvolvimento de software. Eles oferecem uma visão abstrata e estruturada do sistema, ajudando os desenvolvedores a compreender a organização das classes e como elas interagem umas com as outras Gogolla & Kobryn (2003).
-
-&emsp;&emsp;Os diagramas de classes desempenham um papel fundamental na modelagem de sistemas de software, sendo uma ferramenta crucial para representar de maneira visual as classes, seus atributos, métodos e as relações entre elas. Por meio desses diagramas, é possível documentar a estrutura de um sistema de forma organizada e compreensível, proporcionando uma visão clara das entidades envolvidas e como elas interagem Lucidchart (s.d.).
+&emsp;&emsp;Um diagrama de classes é uma ferramenta fundamental na modelagem de sistemas de software, permitindo a representação visual das classes, seus atributos, métodos e os relacionamentos entre elas. Esses diagramas fazem parte da linguagem de modelagem UML (Unified Modeling Language) e desempenham um papel crucial no processo de desenvolvimento de software. Eles oferecem uma visão abstrata e estruturada do sistema, ajudando os desenvolvedores a compreender a organização das classes e como elas interagem umas com as outras Gogolla & Kobryn (2003). Por meio desses diagramas, é possível documentar a estrutura de um sistema de forma organizada e compreensível, proporcionando uma visão clara das entidades envolvidas e como elas interagem Lucidchart (s.d.).
 </div>
 
 ## Objetivo
