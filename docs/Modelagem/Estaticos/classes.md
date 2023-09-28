@@ -3,9 +3,9 @@
 ## Introdução
 
 <div align="justify">
-&emsp;&emsp;A UML consiste de uma linguagem de modelagem, a qual é muito utilizada na comunidade de software. Ela foi criada com o objetivo de estabelecer uma linguagem visual para o mundo complexo do desenvolvimento de software.
+&emsp;&emsp;Um diagrama de classes é uma ferramenta fundamental na modelagem de sistemas de software, permitindo a representação visual das classes, seus atributos, métodos e os relacionamentos entre elas. Esses diagramas fazem parte da linguagem de modelagem UML (Unified Modeling Language) e desempenham um papel crucial no processo de desenvolvimento de software. Eles oferecem uma visão abstrata e estruturada do sistema, ajudando os desenvolvedores a compreender a organização das classes e como elas interagem umas com as outras Gogolla & Kobryn (2003).
 
-&emsp;&emsp;O diagrama de classes é um diagrama estático da UML, o qual vai reunir elementos importantes de um sistema orientado a objetos.
+&emsp;&emsp;Os diagramas de classes desempenham um papel fundamental na modelagem de sistemas de software, sendo uma ferramenta crucial para representar de maneira visual as classes, seus atributos, métodos e as relações entre elas. Por meio desses diagramas, é possível documentar a estrutura de um sistema de forma organizada e compreensível, proporcionando uma visão clara das entidades envolvidas e como elas interagem Lucidchart (s.d.).
 </div>
 
 ## Objetivo
@@ -58,6 +58,7 @@
 </div>
 
 ## Referências
+> - Gogolla, M., & Kobryn, C. (2003). UML 2001 - The Unified Modeling Language. Modeling Languages, Concepts, and Tools. Springer.
 > - O que é um diagrama de classe UML? (s.d.). Lucidchart. Disponível em: https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-classe-uml;
 > - Fakhroutdinov, K. (s.d.). UML Class and Object Diagrams Overview - common types of UML structure diagrams. Disponível em: https://www.uml-diagrams.org/class-diagrams-overview.html;
 > - Serrano, Milene. VideoAula - DSW - Modelagem. Diponível em: [Link de acesso](https://unbbr-my.sharepoint.com/personal/mileneserrano_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmileneserrano%5Funb%5Fbr%2FDocuments%2FArqDSW%20%2D%20V%C3%ADdeosOriginais%2F05a%20%2D%20VideoAula%20%2D%20DSW%2DModelagem%2Emp4&ga=1);
@@ -71,4 +72,5 @@
 |  Versão  |   Data da alteração  |   Alteração  |  Responsável  |  Revisor  | Data de revisão |
 | :--------: | :--------------------: | :-----------: | :--------------: | :--------: | :-----------------: |
 |     1.0     |    22/09/2023   |  Criando documento  |  [Lucas Gobbi](https://github.com/lucasbergholz)   | [Paulo Henrique](https://github.com/owhenrique) | 28/09/2023 |
-|     1.0     |    28/09/2023   |  Adicionando referências  |  [Paulo Henrique](https://github.com/owhenrique)   | [Gustavo](https://github.com/)  | 28/09/2023 |
+|     1.1     |    28/09/2023   |  Adicionando referências  |  [Paulo Henrique](https://github.com/owhenrique)   | [Gustavo](https://github.com/)  | 28/09/2023 |
+|     1.2     |    28/09/2023   |  Adicionando diagramas e ajuste de introdução  |  [Paulo Henrique](https://github.com/owhenrique)   | [Gustavo](https://github.com/)  | 28/09/2023 |
