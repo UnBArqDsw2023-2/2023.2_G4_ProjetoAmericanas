@@ -23,7 +23,32 @@
 ## Diagramas
 
 <div align="justify">
-&emsp;&emsp;COLOCAR OS 5 DIAGRAMAS.
+&emsp;&emsp; TEXTO
+
+![](../../images/t2-Modelagem/diagrama-classes-Paulo.png)
+<h4 align = "center"> Figura 1: Diagrama de classes do sistema Americanas </h4>
+<p align = "center"> Fonte: Autoria própria </p>
+<p align = "center"> Autores: Paulo Henrique, 2023 </p>
+
+![](../../images/t2-Modelagem/diagrama-classes-Lucas.jpeg)
+<h4 align = "center"> Figura 2: Diagrama de classes do sistema Americanas </h4>
+<p align = "center"> Fonte: Autoria própria </p>
+<p align = "center"> Autores: Lucas Gobbi, 2023 </p>
+
+![](../../images/t2-Modelagem/diagrama-classes-Vitor.png)
+<h4 align = "center"> Figura 3: Diagrama de classes do sistema Americanas </h4>
+<p align = "center"> Fonte: Autoria própria </p>
+<p align = "center"> Autores: Vitor Brito, 2023 </p>
+
+![](../../images/t2-Modelagem/diagrama-classes-RafaelBosi.png)
+<h4 align = "center"> Figura 4: Diagrama de classes do sistema Americanas </h4>
+<p align = "center"> Fonte: Autoria própria </p>
+<p align = "center"> Autores: Rafael Bosi, 2023 </p>
+
+![](../../images/t2-Modelagem/diagrama-classes-Final.png)
+<h4 align = "center"> Figura 5: Diagrama de classes final do sistema Americanas </h4>
+<p align = "center"> Fonte: Autoria própria </p>
+<p align = "center"> Autores: Lucas Gobbi; Paulo Henrique; Rafael Bosi; Vitor Brito, 2023 </p>
 </div>
 
 ## Resultado e conclusões
