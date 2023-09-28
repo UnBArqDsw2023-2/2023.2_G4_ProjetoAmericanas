@@ -33,10 +33,17 @@
 </div>
 
 ## Referências
-
+> - O que é um diagrama de classe UML? (n.d.). Lucidchart. Disponível em: https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-classe-uml;
+> - Fakhroutdinov, K. (n.d.). UML Class and Object Diagrams Overview - common types of UML structure diagrams. Disponível em: https://www.uml-diagrams.org/class-diagrams-overview.html;
+> - Serrano, Milene. VideoAula - DSW - Modelagem. Diponível em: [Link](https://unbbr-my.sharepoint.com/personal/mileneserrano_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmileneserrano%5Funb%5Fbr%2FDocuments%2FArqDSW%20%2D%20V%C3%ADdeosOriginais%2F05a%20%2D%20VideoAula%20%2D%20DSW%2DModelagem%2Emp4&ga=1);
+> - Serrano, Milene. VideoAula - DSW - Modelagem - Diagrama de Classe. Diponível em: [Link](https://unbbr-my.sharepoint.com/personal/mileneserrano_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmileneserrano%5Funb%5Fbr%2FDocuments%2FArqDSW%20%2D%20V%C3%ADdeosOriginais%2F05b%20%2D%20VideoAula%20%2D%20DSW%2DModelagem%20%2D%20Diagrama%20de%20Classe%2Emp4&ga=1);
+> - Serrano, Milene. VideoAula - DSW - Modelagem - Dependencia Associacao. Diponível em: [Link](https://unbbr-my.sharepoint.com/personal/mileneserrano_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmileneserrano%5Funb%5Fbr%2FDocuments%2FArqDSW%20%2D%20V%C3%ADdeosOriginais%2F05c%20%2D%20VideoAula%20%2D%20DSW%2DModelagem%20%2D%20Dependencia%20Associacao%2Emp4&ga=1);
+> - Serrano, Milene. VideoAula - DSW - Modelagem - Classe Concreta Abstrata Sobrescrita Sobrecarga. Diponível em: [link](https://unbbr-my.sharepoint.com/personal/mileneserrano_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmileneserrano%5Funb%5Fbr%2FDocuments%2FArqDSW%20%2D%20V%C3%ADdeosOriginais%2F05d%20%2D%20VideoAula%20%2D%20DSW%2DModelagem%20%2D%20Classe%20Concreta%20Abstrata%20Sobrescrita%20Sobrecarga%2Emp4&ga=1);
+> - Serrano, Milene. VideoAula - DSW - Modelagem - Agregacao Composicao. Diponível em: [Link](https://unbbr-my.sharepoint.com/personal/mileneserrano_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmileneserrano%5Funb%5Fbr%2FDocuments%2FArqDSW%20%2D%20V%C3%ADdeosOriginais%2F05e%20%2D%20VideoAula%20%2D%20DSW%2DModelagem%20%2D%20Agregacao%20Composicao%2Emp4&ga=1).
 
 ##  Histórico de Versão
 
 |  Versão  |   Data da alteração  |   Alteração  |  Responsável  |  Revisor  | Data de revisão |
 | :--------: | :--------------------: | :-----------: | :--------------: | :--------: | :-----------------: |
-|     1.0     |    22/09/2023   |  Criando documento  |  [Lucas Gobbi](https://github.com/lucasbergholz)   |   |  |
+|     1.0     |    22/09/2023   |  Criando documento  |  [Lucas Gobbi](https://github.com/lucasbergholz)   | [Paulo Henrique](https://github.com/owhenrique) | 28/09/2023 |
+|     1.0     |    28/09/2023   |  Adicionando referências  |  [Paulo Henrique](https://github.com/owhenrique)   | [Gustavo](https://github.com/)  | 28/09/2023 |
