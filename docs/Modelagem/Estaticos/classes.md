@@ -21,41 +21,47 @@
 ## Diagramas
 
 <div align="justify">
-&emsp;&emsp; TEXTO
+&emsp;&emsp; Neste tópico, apresentaremos os cinco diagramas de classes desenvolvidos por cada membro e o diagrama final para representar a aplicação web do site da Americanas, conforme mencionado no objetivo do artefato. Os diagramas de classes são uma parte essencial da modelagem UML e fornecem uma visão estruturada e abstrata do sistema, identificando classes, atributos, métodos e relacionamentos entre elas.
 
 ![](../../images/t2-Modelagem/diagrama-classes-Paulo.png)
+
 <h4 align = "center"> Figura 1: Diagrama de classes do sistema Americanas </h4>
 <p align = "center"> Fonte: Autoria própria </p>
 <p align = "center"> Autores: Paulo Henrique, 2023 </p>
 
 ![](../../images/t2-Modelagem/diagrama-classes-Lucas.jpeg)
+
 <h4 align = "center"> Figura 2: Diagrama de classes do sistema Americanas </h4>
 <p align = "center"> Fonte: Autoria própria </p>
 <p align = "center"> Autores: Lucas Gobbi, 2023 </p>
 
 ![](../../images/t2-Modelagem/diagrama-classes-Vitor.png)
+
 <h4 align = "center"> Figura 3: Diagrama de classes do sistema Americanas </h4>
 <p align = "center"> Fonte: Autoria própria </p>
 <p align = "center"> Autores: Vitor Brito, 2023 </p>
 
 ![](../../images/t2-Modelagem/diagrama-classes-RafaelBosi.png)
+
 <h4 align = "center"> Figura 4: Diagrama de classes do sistema Americanas </h4>
 <p align = "center"> Fonte: Autoria própria </p>
 <p align = "center"> Autores: Rafael Bosi, 2023 </p>
 
 ![](../../images/t2-Modelagem/diagrama-classes-Final.png)
+
 <h4 align = "center"> Figura 5: Diagrama de classes final do sistema Americanas </h4>
 <p align = "center"> Fonte: Autoria própria </p>
 <p align = "center"> Autores: Lucas Gobbi; Paulo Henrique; Rafael Bosi; Vitor Brito, 2023 </p>
 </div>
 
-## Resultado e conclusões
+## Resultado e Conclusões
 
 <div align="justify">
-&emsp;&emsp;Discorrer e analisar as conclusões do artefato. A depender, trocar o nome desse tópico para apenas "Conclusão".
+&emsp;&emsp; Focamos no fluxo do usuário até a compra, proporcionando uma visão direta e clara. Optamos por simplificar a representação das avaliações e integrar como atributos dos produtos em vez de criar uma classe Avaliacao. A utilização de enums facilitou a precisão na modelagem dos atributos. A discussão mais extensa foi em torno do carrinho de compras, resultando na criação de classes dedicadas para o carrinho e seus itens. Definir associações entre as classes foi essencial para capturar as interações do sistema, foi dedicado um tempo considerável debatendo qual era a forma mais condizente de representá-las. Esse diagrama final servirá como uma ferramenta valiosa para entender a estrutura e interações do sistema, facilitando o desenvolvimento e a manutenção do software.
 </div>
 
 ## Referências
+
 > - Gogolla, M., & Kobryn, C. (2003). UML 2001 - The Unified Modeling Language. Modeling Languages, Concepts, and Tools. Springer.
 > - O que é um diagrama de classe UML? (s.d.). Lucidchart. Disponível em: https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-classe-uml;
 > - Fakhroutdinov, K. (s.d.). UML Class and Object Diagrams Overview - common types of UML structure diagrams. Disponível em: https://www.uml-diagrams.org/class-diagrams-overview.html;
@@ -65,10 +71,10 @@
 > - Serrano, Milene. VideoAula - DSW - Modelagem - Classe Concreta Abstrata Sobrescrita Sobrecarga. Diponível em: [Link de acesso](https://unbbr-my.sharepoint.com/personal/mileneserrano_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmileneserrano%5Funb%5Fbr%2FDocuments%2FArqDSW%20%2D%20V%C3%ADdeosOriginais%2F05d%20%2D%20VideoAula%20%2D%20DSW%2DModelagem%20%2D%20Classe%20Concreta%20Abstrata%20Sobrescrita%20Sobrecarga%2Emp4&ga=1);
 > - Serrano, Milene. VideoAula - DSW - Modelagem - Agregacao Composicao. Diponível em: [Link de acesso](https://unbbr-my.sharepoint.com/personal/mileneserrano_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmileneserrano%5Funb%5Fbr%2FDocuments%2FArqDSW%20%2D%20V%C3%ADdeosOriginais%2F05e%20%2D%20VideoAula%20%2D%20DSW%2DModelagem%20%2D%20Agregacao%20Composicao%2Emp4&ga=1).
 
-##  Histórico de Versão
+## Histórico de Versão
 
-|  Versão  |   Data da alteração  |   Alteração  |  Responsável  |  Revisor  | Data de revisão |
-| :--------: | :--------------------: | :-----------: | :--------------: | :--------: | :-----------------: |
-|     1.0     |    22/09/2023   |  Criando documento  |  [Lucas Gobbi](https://github.com/lucasbergholz)   | [Paulo Henrique](https://github.com/owhenrique) | 28/09/2023 |
-|     1.1     |    28/09/2023   |  Adicionando referências  |  [Paulo Henrique](https://github.com/owhenrique)   | [Gustavo](https://github.com/)  | 28/09/2023 |
-|     1.2     |    28/09/2023   |  Adicionando diagramas e ajuste de introdução  |  [Paulo Henrique](https://github.com/owhenrique)   | [Gustavo](https://github.com/)  | 28/09/2023 |
+| Versão | Data da alteração |                  Alteração                   |                   Responsável                   |                     Revisor                     | Data de revisão |
+| :----: | :---------------: | :------------------------------------------: | :---------------------------------------------: | :---------------------------------------------: | :-------------: |
+|  1.0   |    22/09/2023     |              Criando documento               | [Lucas Gobbi](https://github.com/lucasbergholz) | [Paulo Henrique](https://github.com/owhenrique) |   28/09/2023    |
+|  1.1   |    28/09/2023     |           Adicionando referências            | [Paulo Henrique](https://github.com/owhenrique) |         [Gustavo](https://github.com/)          |   28/09/2023    |
+|  1.2   |    28/09/2023     | Adicionando diagramas e ajuste de introdução | [Paulo Henrique](https://github.com/owhenrique) |         [Gustavo](https://github.com/)          |   28/09/2023    |
