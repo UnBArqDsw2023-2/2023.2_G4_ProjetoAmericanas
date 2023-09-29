@@ -60,7 +60,14 @@ que também modificava o diagrama online, as ideias e possíveis modelagens fora
 
 &emsp;&emsp; A estrtura do diagrama foi dividida em camadas que irão ser explicadas a seguir:
 
-## 6. Conclusão
+## 6. Gravação da reunião
+
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/_w_TTuf8hv8" title="reunião de execução do diagrama de pacotes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div align="center">
+<p> <b>Vídeo 1</b>: gravação da execução do diagrama de pacotes (Fonte: Grupo. 2023).</p>
+</div>
+
+## 7. Conclusão
 
 
 </div>
