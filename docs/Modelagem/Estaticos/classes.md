@@ -47,12 +47,27 @@
 <p align = "center"> Fonte: Autoria própria </p>
 <p align = "center"> Autores: Rafael Bosi, 2023 </p>
 
+![](../../images/t2-Modelagem/diagrama-classes-Gustavo.png)
+
+<h4 align = "center"> Figura 5: Diagrama de classes do sistema Americanas </h4>
+<p align = "center"> Fonte: Autoria própria </p>
+<p align = "center"> Autores: Gustavo Barbosa, 2023 </p>
+
 ![](../../images/t2-Modelagem/diagrama-classes-Final.png)
 
-<h4 align = "center"> Figura 5: Diagrama de classes final do sistema Americanas </h4>
+<h4 align = "center"> Figura 6: Diagrama de classes final do sistema Americanas </h4>
 <p align = "center"> Fonte: Autoria própria </p>
-<p align = "center"> Autores: Lucas Gobbi; Paulo Henrique; Rafael Bosi; Vitor Brito, 2023 </p>
+<p align = "center"> Autores: Lucas Gobbi; Paulo Henrique; Rafael Bosi; Vitor Brito; Gustavo Barbosa, 2023 </p>
 </div>
+
+## Gravação da Reunião
+
+<div align= "justify">
+&emsp;&emsp;Abaixo se encontra a gravação da reunião de concepção do diagrama final
+</div>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NbPtnir7CRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div align="center">Vídeo 1 - Reunião</div>
 
 ## Resultado e Conclusões
 
