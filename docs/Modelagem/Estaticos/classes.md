@@ -91,5 +91,6 @@
 | Versão | Data da alteração |                  Alteração                   |                   Responsável                   |                     Revisor                     | Data de revisão |
 | :----: | :---------------: | :------------------------------------------: | :---------------------------------------------: | :---------------------------------------------: | :-------------: |
 |  1.0   |    22/09/2023     |              Criando documento               | [Lucas Gobbi](https://github.com/lucasbergholz) | [Paulo Henrique](https://github.com/owhenrique) |   28/09/2023    |
-|  1.1   |    28/09/2023     |           Adicionando referências            | [Paulo Henrique](https://github.com/owhenrique) |         [Gustavo](https://github.com/)          |   28/09/2023    |
-|  1.2   |    28/09/2023     | Adicionando diagramas e ajuste de introdução | [Paulo Henrique](https://github.com/owhenrique) |         [Gustavo](https://github.com/)          |   28/09/2023    |
+|  1.1   |    28/09/2023     |           Adicionando referências            | [Paulo Henrique](https://github.com/owhenrique) |         [Gustavo](https://github.com/brbsg)          |   28/09/2023    |
+|  1.2   |    28/09/2023     | Adicionando diagramas e ajuste de introdução | [Paulo Henrique](https://github.com/owhenrique) |         [Gustavo](https://github.com/brbsg)          |   28/09/2023    |
+|  1.3   |    28/09/2023     | Adicionando conclusão e afinamento de documento | [Gustavo](https://github.com/brbsg)  | [Paulo Henrique](https://github.com/owhenrique) |   29/09/2023    |
