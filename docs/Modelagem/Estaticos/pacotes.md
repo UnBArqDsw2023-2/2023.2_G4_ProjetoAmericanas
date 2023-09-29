@@ -33,13 +33,24 @@ que também modificava o diagrama online, as ideias e possíveis modelagens fora
 
 &emsp;&emsp;A equipe se reuniu e, juntamente, começou a construir o artefato que seria o diagrama de pacote, inicialmente, a gente tentou modelar quais seriam os tipos de organização de pastas que estaríamos buscando, com uma dica que foi dada pela professora, dividimos em dois grandes modelos principais, Client e Application, o Client é a camada que mostra como o usuário se conecta com a aplicação, no caso, ou por web ou por mobile. Já o módulo Application, foi dividido nos modelos frontend, que continha os pacotes necessários para a criação de telas e manuseio básico de dados, backend, que continha as suas camadas e a conexão externa com o banco de dados, ainda sem modelagem.
 
-### 4.1 Primeira versão do diagrama
+### 4.1 Legenda
+
+<div style="display: center; align-items: center;">.
+  <img src="../../images/t2-Modelagem/legendaDiagramaDePacote.png" alt="legenda com a descrição dos elementos  presentes no artefato diagrama de pacote" style="margin-right: 20px;"/>
+  <div style="flex-grow: 1;">
+    <h6 style="text-align: flex;">
+    Figura 1 : Legenda do Diagrama de Pacotes
+    </h6>
+  </div>
+</div>
+
+### 4.2 Primeira versão do diagrama
 
 <div style="display: center; align-items: center;">
   <img src="" alt="descrição da imagem" style="margin-right: 20px;"/>
   <div style="flex-grow: 1;">
     <h6 style="text-align: flex;">
-    Figura 1 : Diagrama de Pacotes V1
+    Figura 2 : Diagrama de Pacotes V1
     </h6>
   </div>
 </div>
@@ -64,5 +75,6 @@ que também modificava o diagrama online, as ideias e possíveis modelagens fora
 |  Versão  |   Data da alteração  |   Alteração  |  Responsável  |  Revisor  | Data de revisão |
 | :--------: | :--------------------: | :-----------: | :--------------: | :--------: | :-----------------: |
 |     1.0     |    25/09/2023   |  Criando documento  |  [Igor Penha](https://github.com/igorpenhaa)   |   |  |
+|     2.0     |    29/09/2023   |  Adição de legenda do artefato  |  [Bernardo Pissutti](https://github.com/berssutti)   |   |  |
 
 </div>
