@@ -8,7 +8,7 @@
 Este repositório é destinado ao armazenamento dos artefatos e atividades do Projeto Americanas, produzido pelo grupo 04 da disciplina de Arquitetura e Desenho de Software e orientado pela Profa. Dra. Milene Serrano durante o semestre 2023.2 da Universidade de Brasília, Campus Gama (UnB/FGA).
 
 ## Execução :computer:
-A geração do site estático é realizada utilizando o [mkdocs](https://www.mkdocs.org/).
+Você pode acessar a documentação na íntegra [aqui](https://unbarqdsw2023-2.github.io/2023.2_G4_ProjetoAmericanas/#/). A geração do site estático é realizada utilizando o [docsify](https://docsify.js.org/#/).
 
 Se você deseja executar o projeto localmente na sua máquina, certifique-se de haver as dependências necessárias instaladas. Para isso, primeiramente clone o repositório:
 
@@ -18,12 +18,12 @@ git clone git@github.com:UnBArqDsw2023-2/2023.2_G4_ProjetoAmericanas.git
 
 Em seguida, instale as bibliotecas necessárias por meio do seguinte comando:
 ```shell
-pip install -r requirements.txt
+npm i docsify-cli -g
 ```
 
 Por fim, no diretório raiz do repositório, execute o comando:
 ```shell
-mkdocs serve
+docsify init ./docs
 ```
 
 ## Equipe :raising_hand:
