@@ -50,7 +50,7 @@ que também modificava o diagrama online, as ideias e possíveis modelagens fora
   <img src="../../images/t2-Modelagem/DiagramaPacotes.jpg" alt="Diagrama de pacotes" style="margin-right: 20px;"/>
   <div style="flex-grow: 1;">
     <h6 style="text-align: flex;">
-    Figura 2 : Diagrama de Pacotes V1
+    Figura 2 : Diagrama de Pacotes V1 (Fonte: Bernado Pissutti, Bruno Ribeiro, Bruno Bomfim, Igor Penha e Marcos Souza, 2023).
     </h6>
   </div>
 </div>
@@ -59,6 +59,29 @@ que também modificava o diagrama online, as ideias e possíveis modelagens fora
 ## 5. Estrutura do diagrama
 
 &emsp;&emsp; A estrtura do diagrama foi dividida em camadas que irão ser explicadas a seguir:
+
+### Front-End
+
+#### - Pages:
+
+#### - Assests:
+
+#### - Services:
+
+#### - Components
+
+#### - Tests
+
+
+### Back-End
+
+#### - View:
+
+#### - Controller
+
+#### - Business
+
+### Database
 
 ## 6. Gravação da reunião
 
