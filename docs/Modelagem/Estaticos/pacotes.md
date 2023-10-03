@@ -47,7 +47,7 @@ que também modificava o diagrama online, as ideias e possíveis modelagens fora
 ### 4.2 Primeira versão do diagrama
 
 <div style="display: center; align-items: center;">
-  <img src="![](../../images/t2-Modelagem/DiagramaPacotes.jpg)" alt="descrição da imagem" style="margin-right: 20px;"/>
+  <img src="../../images/t2-Modelagem/DiagramaPacotes.jpg" alt="Diagrama de pacotes" style="margin-right: 20px;"/>
   <div style="flex-grow: 1;">
     <h6 style="text-align: flex;">
     Figura 2 : Diagrama de Pacotes V1
