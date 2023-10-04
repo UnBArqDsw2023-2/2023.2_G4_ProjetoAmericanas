@@ -104,7 +104,8 @@ que também modificava o diagrama online, as ideias e possíveis modelagens fora
 
 |  Versão  |   Data da alteração  |   Alteração  |  Responsável  |  Revisor  | Data de revisão |
 | :--------: | :--------------------: | :-----------: | :--------------: | :--------: | :-----------------: |
-|     1.0     |    25/09/2023   |  Criando documento  |  [Igor Penha](https://github.com/igorpenhaa)   |   |  |
-|     2.0     |    29/09/2023   |  Adição de legenda do artefato  |  [Bernardo Pissutti](https://github.com/berssutti)   |   |  |
+|    `1.0`    |    25/09/2023   |  Criando documento  |  [Igor Penha](https://github.com/igorpenhaa)   |   |  |
+|    `1.1`    |    29/09/2023   |  Adição de legenda do artefato  |  [Bernardo Pissutti](https://github.com/berssutti)   |   |  |
+|    `1.3`    |    03/09/2023   |  Adição do diagrama e melhorando o escopo |  [Igor Penha](https://github.com/igorpenhaa)   |   |  |
 
 </div>
