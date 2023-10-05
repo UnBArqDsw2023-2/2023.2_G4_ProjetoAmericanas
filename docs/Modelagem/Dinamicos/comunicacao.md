@@ -56,9 +56,9 @@ Optamos por separar o fluxo em diferentes interações para facilitar a compreen
 
 A reunião de desenvolvimento do artefato foi gravada no Microsoft Teams e está disponível abaixo: 
 
-<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/qV0bU0zul0k" title="Reunião 10" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/QJ08eS1TtVs" title="Diagrama de comunicação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <div align="center">
-<p> <b>Vídeo 1</b>: gravação da reunião (Fonte: Grupo. 2023).</p>
+<p> <b>Vídeo 1</b>: gravação de realização do diagrama de comunicação (Fonte: Grupo. 2023).</p>
 </div>
 
 ## Conclusão
