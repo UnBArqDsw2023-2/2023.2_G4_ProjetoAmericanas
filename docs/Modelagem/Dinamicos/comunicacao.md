@@ -43,6 +43,14 @@ fornece uma visão clara das mensagens e do fluxo.
 Dessa maneira, com a intenção de analisar o sistema e suas diferentes interações do seu fluxo desde o cadastro até a compra de um produto.
 Optamos por separar o fluxo em diferentes interações para facilitar a compreensão e melhorar o trabalho realizado, assim a divisão foi realizada em:
 
+<div style="display: center; align-items: center;">
+  <img src="../../images/t2-Modelagem/DiagramaComunicacao.png" alt="Diagrama de comunicação" style="margin-right: 20px;"/>
+  <div style="flex-grow: 1;">
+    <h6 style="text-align: flex;">
+    Figura 2 : Diagrama de Comunicação V1 (Fonte: Bernado Pissutti, Bruno Ribeiro, Bruno Bomfim, Igor Penha e Marcos Souza, 2023).
+    </h6>
+  </div>
+</div>
 
 ## Gravação da reunião
 
@@ -70,5 +78,6 @@ A reunião de desenvolvimento do artefato foi gravada no Microsoft Teams e está
 |  Versão  |   Data da alteração  |   Alteração  |  Responsável  |  Revisor  | Data de revisão |
 | :------: | :------------------: | :-----------: | :--------------: | :--------: | :-----------------: |
 | `1.0` | 26/09/2023 | Criação do artefato de diagrama de comunicação | [Igor Penha](https://github.com/igorpenhaa) | [Lucas Gobbi](https://github.com/lucasbergholz) | 27/09/2023 |
+| `1.1` | 05/10/2023 | Adição do diagrama de comunicação | [Igor Penha](https://github.com/igorpenhaa) | [Lucas Gobbi](https://github.com/lucasbergholz) | 05/10/2023 |
 
 </div>
