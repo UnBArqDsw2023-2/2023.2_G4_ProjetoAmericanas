@@ -22,23 +22,35 @@
 
 <div align="center">
 
-  <img title="Diagrama de Componentes" alt="Diagrama de componentes" src="" width="100%">
-
+  <img title="Diagrama de Componentes" alt="Diagrama de componentes" src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G4_ProjetoAmericanas/main/docs/images/t1-Base/DiagramaDeComponentes.jpg" width="100%">
+  <h4> Figura 1: Diagrama de Componentes </h4>
+  <p> Fonte: Autoria própria </p>
+  <p> Autor: Marcos Felipe e Bernado Pissutti, 2023 </p>
 </div>
 
 ## Gravação
 
-<div align="justify">
-&emsp;&emsp;Discorrer e analisar as conclusões do artefato. A depender, trocar o nome desse tópico para apenas "Conclusão".
-</div>
+<p align="justify">
+&emsp;&emsp;Nesta reunião, discutimos e trabalhamos na criação do Diagrama de Componentes para o projeto em desenvolvimento. No início, estávamos seguindo um modelo anterior que não considerava adequadamente as interfaces e serviços do sistema. Após conduzir uma pesquisa sobre as melhores práticas relacionadas a esse artefato, decidimos incorporar uma visão mais abrangente.</p>
+
+<p align="justify">
+Ao final da reunião, realizamos uma revisão do diagrama, segmentando os subsistemas e seus componentes para torná-lo mais claro e facilitar a compreensão. Essa abordagem de segmentação contribuirá para uma comunicação mais eficaz e um melhor alinhamento no desenvolvimento do sistema, melhorando a qualidade da documentação e a clareza do projeto como um todo.
+</p>
+
+<iframe width="720" height="400" src="https://www.youtube.com/embed/BrSwqIwZScY" title="Lojas Americanas - Diagrama de componentes - Grupo 04" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ## Referências
 
-[1] **SERRANO, Milene**. AULA - MODELAGEM UML ESTÁTICA. Local: UnB-FGA, Gama, DF.
+[1] **SERRANO, Milene**. AULA - MODELAGEM UML ESTÁTICA. Local: UnB-FGA, Gama, DF.<br>
 
+[2] Diagrama de componentes UML: o que é, como fazer e exemplos. Disponível em: <https://www.lucidchart.com/pages/pt/diagrama-de-componentes-uml>.<br>
+
+‌
 
 ##  Histórico de Versão
 
 |  Versão  |   Data da alteração  |   Alteração  |  Responsável  |  Revisor  | Data de revisão |
 | :--------: | :--------------------: | :-----------: | :--------------: | :--------: | :-----------------: |
-|     1.0     |    08/09/2023   |  Criando documento  |  [Bernardo Pissutti](https://github.com/berssutti)   |   |  |
+|     1.0     |    08/09/2023   |  Criando documento  |  [Bernardo Pissutti](https://github.com/berssutti)   | [Marcos Felipe](https://github.com/marofelipe)  | 08/10/2023 |
+|     1.0     |    08/10/2023   |  Elaboração do artefato  |  [Bernardo Pissutti](https://github.com/berssutti), [Marcos Felipe](https://github.com/marofelipe)   | [Bernardo Pissutti](https://github.com/berssutti) | 08/10/2023 |
