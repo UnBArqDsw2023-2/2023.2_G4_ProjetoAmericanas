@@ -43,14 +43,46 @@ fornece uma visão clara das mensagens e do fluxo.
 Dessa maneira, com a intenção de analisar o sistema e suas diferentes interações do seu fluxo desde o cadastro até a compra de um produto.
 Optamos por separar o fluxo em diferentes interações para facilitar a compreensão e melhorar o trabalho realizado, assim a divisão foi realizada em:
 
+(**Adicionar as divisões dos diagramas ou trocar o texto a cima**)
+
+## (**Adicionar nome do diagrama**)
+
+(**Adicionar texto sobre o diagrama**)
+
 <div style="display: center; align-items: center;">
   <img src="../../images/t2-Modelagem/DiagramaComunicacao.png" alt="Diagrama de comunicação" style="margin-right: 20px;"/>
   <div style="flex-grow: 1;">
     <h6 style="text-align: flex;">
-    Figura 2 : Diagrama de Comunicação V1 (Fonte: Bernado Pissutti, Bruno Ribeiro, Bruno Bomfim, Igor Penha e Marcos Souza, 2023).
+    Figura 2 : Diagrama de Comunicação V1 (Fonte: Bruno Ribeiro, Bruno Bomfim e Igor Penha, 2023).
     </h6>
   </div>
 </div>
+
+
+(**Adicionar nova versão do diagrama Bruno**)
+
+<div style="display: center; align-items: center;">
+  <img src="../../images/t2-Modelagem/DiagramaComunicacao.png" alt="Diagrama de comunicação" style="margin-right: 20px;"/>
+  <div style="flex-grow: 1;">
+    <h6 style="text-align: flex;">
+    Figura 2 : Diagrama de Comunicação V1 (Fonte: Bruno Ribeiro, Bruno Bomfim e Igor Penha, 2023).
+    </h6>
+  </div>
+</div>
+
+## (**Adicionar nome do diagrama**)
+
+(**Adicionar texto sobre o diagrama**)
+
+<div style="display: center; align-items: center;">
+  <img src="../../images/t2-Modelagem/diagramaComunicacaoAmericas.png" alt="Diagrama de comunicação" style="margin-right: 20px;"/>
+  <div style="flex-grow: 1;">
+    <h6 style="text-align: flex;">
+    Figura 2 : Diagrama de Comunicação V1 (Fonte: Bruno Ribeiro, Bruno Bomfim e Igor Penha, 2023).
+    </h6>
+  </div>
+</div>
+
 
 ## Gravação da reunião
 
@@ -62,6 +94,8 @@ A reunião de desenvolvimento do artefato foi gravada no Microsoft Teams e está
 </div>
 
 ## Conclusão
+
+(**Adicionar conclusão**)
 
 
 ## Referências
