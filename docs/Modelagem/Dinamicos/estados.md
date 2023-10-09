@@ -94,4 +94,4 @@
 |     1.0     |    03/10/2023   |  Criando documento  |  [Lucas Gobbi](https://github.com/lucasbergholz)   | [Rafael Bosi](https://github.com/StrangeUnit28)   | 04/10/2023 |
 |     1.1     |    05/10/2023   | Ajustando o documento e adicionando legenda e diagrama | [Rafael Bosi](https://github.com/StrangeUnit28) |  [Lucas Gobbi](https://github.com/lucasbergholz) | 07/10/2023 |
 |     2.0     |    08/10/2023   | Adicionando diagrama evoluído | [Lucas Gobbi](https://github.com/lucasbergholz)  |  [Rafael Bosi](https://github.com/StrangeUnit28) | 08/10/2023 |
-|     2.1     |    09/10/2023   | Adicionando diagrama de usuário aprimorado | [Paulo Henrique](https://github.com/owhenrique),   |  | 09/10/2023 |
+|     2.1     |    09/10/2023   | Adicionando diagrama de usuário aprimorado | [Paulo Henrique](https://github.com/owhenrique) | [Lucas Gobbi](https://github.com/lucasbergholz) | 09/10/2023 |
