@@ -56,7 +56,11 @@ que também modificava o diagrama online, as ideias e possíveis modelagens fora
 </div>
 
 
+(**Adicionar a segunda versão com as correções da database com base no diagrama de classes**)
+
 ## 5. Estrutura do diagrama
+
+(**Adicionar a estrutura do diagrama explicando cada pacote**)
 
 &emsp;&emsp; A estrtura do diagrama foi dividida em camadas que irão ser explicadas a seguir:
 
@@ -91,6 +95,8 @@ que também modificava o diagrama online, as ideias e possíveis modelagens fora
 </div>
 
 ## 7. Conclusão
+
+(**Adicionar a conclusão**)
 
 
 </div>
