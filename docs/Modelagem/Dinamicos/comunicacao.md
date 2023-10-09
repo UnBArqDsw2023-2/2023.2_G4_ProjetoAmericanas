@@ -16,11 +16,9 @@ mensagens que fluem entre tais linhas de vida[2].
 
 Os participantes que participaram do desenvolvimento desse artefato foram:
 
-- Bernado Pissutti
 - Bruno Ribeiro
 - Bruno Bomfim
 - Igor Penha
-- Marcos Souza
 
 ## Metodologia
 
