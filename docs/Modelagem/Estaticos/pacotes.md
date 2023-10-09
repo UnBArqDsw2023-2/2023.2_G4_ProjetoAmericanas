@@ -58,32 +58,33 @@ que também modificava o diagrama online, as ideias e possíveis modelagens fora
 
 ## 5. Estrutura do diagrama
 
-(**Adicionar a estrutura do diagrama explicando cada pacote**)
-
 &emsp;&emsp; A estrtura do diagrama foi dividida em camadas que irão ser explicadas a seguir:
 
 ### Front-End
 
-#### - Pages:
+- Pages: Esta camada representa as páginas ou telas da interface do usuário. Aqui, são definidas as diferentes telas que os usuários podem interagir no sistema.
 
-#### - Assests:
+- Assets: Nesta camada, são armazenados recursos gráficos, como imagens, ícones e arquivos de estilo, que são utilizados na interface do usuário.
 
-#### - Services:
+- Services: Os serviços são responsáveis por realizar solicitações e interações com o back-end. Eles lidam com a comunicação entre o front-end e o back-end do sistema.
 
-#### - Components
+- Components: Os componentes são unidades reutilizáveis de código que compõem as páginas. Eles podem incluir elementos de interface, como botões, formulários e caixas de diálogo.
 
-#### - Tests
+- Tests: Nesta camada, são realizados testes de unidade e integração para garantir a qualidade e o funcionamento adequado do front-end.
+
 
 
 ### Back-End
 
-#### - View:
+- View: A camada de visualização é responsável por apresentar os dados aos usuários e receber suas interações. Ela lida com a renderização das páginas e a comunicação com o front-end.
 
-#### - Controller
+- Controller: Os controladores são responsáveis por receber as solicitações dos clientes, processá-las e coordenar ações no sistema. Eles atuam como intermediários entre a visualização e a camada de negócios.
 
-#### - Business
-
+- Business: A camada de negócios contém a lógica de negócios do sistema. Ela processa as informações, realiza cálculos e toma decisões com base nas solicitações dos clientes e nas regras de negócios.
+  
 ### Database
+
+A camada de banco de dados armazena e gerencia os dados do sistema. Ela inclui tabelas, esquemas e procedimentos de acesso aos dados. Essa camada é fundamental para a persistência e recuperação das informações utilizadas pelo sistema.
 
 ## 6. Gravação da reunião
 
