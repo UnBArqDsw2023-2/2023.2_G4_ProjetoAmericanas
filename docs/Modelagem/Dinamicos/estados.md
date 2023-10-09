@@ -4,7 +4,7 @@
 ## Introdução
 
 <div align="justify">
-&emsp;&emsp; O Diagrama de Estados é uma representação visual poderosa que nos permite compreender e analisar a dinâmica de como nossa plataforma interage com os usuários e responde às diferentes situações e eventos. Este diagrama é uma ferramenta crucial para mapear e otimizar a experiência do usuário, garantindo que nossa plataforma atenda às necessidades e expectativas de forma eficaz.
+&emsp;&emsp; O Diagrama de Estados é uma representação visual poderosa que nos permite compreender e analisar a dinâmica de como nossa plataforma interage com os usuários e responde às diferentes situações e eventos. Este diagrama é uma ferramenta crucial para mapear e otimizar a experiência do usuário, garantindo que nossa plataforma atenda às necessidades e expectativas de forma eficaz. [1]
 
 &emsp;&emsp;Ao longo deste artefato, exploraremos cada estado do fluxo, seus eventos de transição e as ações associadas. Isso nos permitirá obter insights valiosos sobre como os usuários interagem com nossa plataforma, identificar pontos de melhoria e aprimorar continuamente a experiência do usuário.
 </div>
@@ -39,18 +39,38 @@
 <p align = "center"> Fonte: Autoria própria </p>
 <p align = "center"> Autores:Rafael Bosi, 2023 </p>
 
+<div align="justify">
+&emsp;&emsp;A priori, foram desenvolvidos dois diagramas, um que representa os possíveis estados da classe Produto (Figura 2) e outro que representa a classe Usuário (Figura 3), ambas classes retiradas do <a href="https://unbarqdsw2023-2.github.io/2023.2_G4_ProjetoAmericanas/#/Modelagem/classes.md">diagrama de classes</a> desenvolvido para essa entrega.
+</div>
+
 <img src="../../images/t2-Modelagem/diagrama-estados-produto.png">
 
 <h4 align = "center"> Figura 2: Diagrama de Estados do fluxo de Produto </h4>
 <p align = "center"> Fonte: Autoria própria </p>
 <p align = "center"> Autores: Lucas Gobbi; Rafael Bosi, 2023 </p>
 
+<img src="../../images/t2-Modelagem/diagrama-estados-usuario.jpeg">
+
+<h4 align = "center"> Figura 3: Diagrama de Estados do fluxo de Usuário </h4>
+<p align = "center"> Fonte: Autoria própria </p>
+<p align = "center"> Autores: Gustavo Barbosa; Paulo Henrique; Vitor Manoel, 2023 </p>
+
+<div align="justify">
+&emsp;&emsp;Após conversas com a professora, e avanços em estudos individuais, o diagrama de estados referente ao fluxo do produto foi evoluído para a Figura 4, a qual consta também nela o fluxo referente aos estados da classe Pedido, além de algumas pequenas alterações em nomes de estados, para maior clareza deles.
+</div>
+
+<img src="../../images/t2-Modelagem/diagrama-estados-pedido.png">
+
+<h4 align = "center"> Figura 4: Diagrama de Estados do fluxo de Produto e Pedido </h4>
+<p align = "center"> Fonte: Autoria própria </p>
+<p align = "center"> Autores: Lucas Gobbi; Rafael Bosi, 2023 </p>
+
 ## Resultado e conclusões
 
 <div align="justify">
-&emsp;&emsp;Ao observar o Diagrama de Estados apresentado na Figura 2, é possível chegar em algumas conclusões sobre o fluxo de Produto dentro da Plataforma Americanas, como o fato de que o fluxo se inicia com o usuário adicionando o produto no cesto de compras, o que deixa claro também que não é possível efetuar a compra de um determinado produto, sem previamente alocalo dentro do cesto de compra.
+&emsp;&emsp;Ao observar o Diagrama de Estados apresentado na Figura 4, é possível chegar em algumas conclusões sobre o fluxo de Produto dentro da Plataforma Americanas, como o fato de que o fluxo se inicia com o usuário adicionando o produto na cesta de compras, o que deixa claro também que não é possível efetuar a compra de um determinado produto, sem previamente alocá-lo dentro da cesta de compra.
 
-&emsp;&emsp;Além disso, o Diagrama mostra a simplicidade e, ao mesmo tempo, a eficácia do fluxo que deve ser seguido para efetuar uma compra dentro do site analisado. O que é essencial para dar uma boa experiência de compra para o usuário, uma vez que trabalha com seguraça para o sistema e para o cliente e, é claro, fornece uma maior velocidade para as atividades. 
+&emsp;&emsp;Além disso, o Diagrama mostra a simplicidade e, ao mesmo tempo, a eficácia do fluxo que deve ser seguido para efetuar uma compra dentro do site analisado. O que é essencial para dar uma boa experiência de compra para o usuário, uma vez que trabalha com seguraça para o sistema e para o cliente e, é claro, fornece uma maior velocidade para as atividades.
 </div>
 
 ## Referências
@@ -63,3 +83,4 @@
 | :--------: | :--------------------: | :-----------: | :--------------: | :--------: | :-----------------: |
 |     1.0     |    03/10/2023   |  Criando documento  |  [Lucas Gobbi](https://github.com/lucasbergholz)   | [Rafael Bosi](https://github.com/StrangeUnit28)   | 04/10/2023 |
 |     1.1     |    05/10/2023   | Ajustando o documento e adicionando legenda e diagrama | [Rafael Bosi](https://github.com/StrangeUnit28) |  [Lucas Gobbi](https://github.com/lucasbergholz) | 07/10/2023 |
+|     2.0     |    08/10/2023   | Adicionando diagrama evoluído | [Lucas Gobbi](https://github.com/lucasbergholz)  |  [Rafael Bosi](https://github.com/StrangeUnit28) | 08/10/2023 |
