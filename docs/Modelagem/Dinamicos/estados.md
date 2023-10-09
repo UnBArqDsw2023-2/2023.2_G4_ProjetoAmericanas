@@ -69,7 +69,7 @@
 &emsp;&emsp;Após conversas com a professora, e avanços em estudos individuais, o diagrama de estados referente ao fluxo do produto foi evoluído para a Figura 5, a qual consta também nela o fluxo referente aos estados da classe Pedido, além de algumas pequenas alterações em nomes de estados, para maior clareza deles.
 </div>
 
-<img title="Diagrama de Componentes" alt="Diagrama de componentes" src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G4_ProjetoAmericanas/main/docs/images/t2-Modelagem/diagrama-estados-pedido.png" width="100%">
+<img title="Diagrama de Componentes" alt="Diagrama de componentes" src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G4_ProjetoAmericanas/main/docs/images/t2-Modelagem/diagrama-estados-pedidos.png" width="100%">
 
 <h4 align = "center"> Figura 5: Diagrama de Estados do fluxo de Produto e Pedido </h4>
 <p align = "center"> Fonte: Autoria própria </p>
