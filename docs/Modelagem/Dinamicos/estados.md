@@ -56,12 +56,22 @@
 <p align = "center"> Autores: Gustavo Barbosa; Paulo Henrique; Vitor Manoel, 2023 </p>
 
 <div align="justify">
-&emsp;&emsp;Após conversas com a professora, e avanços em estudos individuais, o diagrama de estados referente ao fluxo do produto foi evoluído para a Figura 4, a qual consta também nela o fluxo referente aos estados da classe Pedido, além de algumas pequenas alterações em nomes de estados, para maior clareza deles.
+&emsp;&emsp;Após discussões com a professora e a partir do seu feedback, o diagrama de estados que representa o fluxo do usuário foi aprimorado, resultando na Figura 4. Nessa versão alteramos o primeiro estado para a visualização da lista de produtos e também adicionamos descrições das transições dos estados.
 </div>
 
-<img title="Diagrama de Componentes" alt="Diagrama de componentes" src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G4_ProjetoAmericanas/main/docs/images/t2-Modelagem/diagrama-estados-pedido.png" width="100%">
+<img src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G4_ProjetoAmericanas/main/docs/images/t2-Modelagem/diagrama-estados-usuario-v2.jpg" width="100%">
 
-<h4 align = "center"> Figura 4: Diagrama de Estados do fluxo de Produto e Pedido </h4>
+<h4 align = "center"> Figura 4: Diagrama de Estados do fluxo de Usuário v2 </h4>
+<p align = "center"> Fonte: Autoria própria </p>
+<p align = "center"> Autores: Gustavo Barbosa; Paulo Henrique; Vitor Manoel, 2023 </p>
+
+<div align="justify">
+&emsp;&emsp;Após conversas com a professora, e avanços em estudos individuais, o diagrama de estados referente ao fluxo do produto foi evoluído para a Figura 5, a qual consta também nela o fluxo referente aos estados da classe Pedido, além de algumas pequenas alterações em nomes de estados, para maior clareza deles.
+</div>
+
+<img title="Diagrama de Componentes" alt="Diagrama de componentes" src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G4_ProjetoAmericanas/main/docs/images/t2-Modelagem/diagrama-estados-pedidos.png" width="100%">
+
+<h4 align = "center"> Figura 5: Diagrama de Estados do fluxo de Produto e Pedido </h4>
 <p align = "center"> Fonte: Autoria própria </p>
 <p align = "center"> Autores: Lucas Gobbi; Rafael Bosi, 2023 </p>
 
@@ -84,3 +94,4 @@
 |     1.0     |    03/10/2023   |  Criando documento  |  [Lucas Gobbi](https://github.com/lucasbergholz)   | [Rafael Bosi](https://github.com/StrangeUnit28)   | 04/10/2023 |
 |     1.1     |    05/10/2023   | Ajustando o documento e adicionando legenda e diagrama | [Rafael Bosi](https://github.com/StrangeUnit28) |  [Lucas Gobbi](https://github.com/lucasbergholz) | 07/10/2023 |
 |     2.0     |    08/10/2023   | Adicionando diagrama evoluído | [Lucas Gobbi](https://github.com/lucasbergholz)  |  [Rafael Bosi](https://github.com/StrangeUnit28) | 08/10/2023 |
+|     2.1     |    09/10/2023   | Adicionando diagrama de usuário aprimorado | [Paulo Henrique](https://github.com/owhenrique) | [Lucas Gobbi](https://github.com/lucasbergholz) | 09/10/2023 |
