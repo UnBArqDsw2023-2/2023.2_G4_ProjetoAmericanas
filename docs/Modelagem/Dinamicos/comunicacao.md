@@ -73,7 +73,7 @@ Optamos por separar o fluxo em diferentes interações para facilitar a compreen
 (**Adicionar texto sobre o diagrama**)
 
 <div style="display: center; align-items: center;">
-  <img src="../../images/t2-Modelagem/diagramaComunicacaoAmericas.png" alt="Diagrama de comunicação" style="margin-right: 20px;"/>
+  <img src="../../images/t2-Modelagem/diagramaComunicacaoAmericanas.png" alt="Diagrama de comunicação" style="margin-right: 20px;"/>
   <div style="flex-grow: 1;">
     <h6 style="text-align: flex;">
     Figura 2 : Diagrama de Comunicação V1 (Fonte: Bruno Ribeiro, Bruno Bomfim e Igor Penha, 2023).
