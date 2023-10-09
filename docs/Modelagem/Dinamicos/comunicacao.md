@@ -45,9 +45,11 @@ Optamos por separar o fluxo em diferentes interações para facilitar a compreen
 
 O primeiro diagrama de comunicação apresentado representa as interações dinâmicas entre os objetos envolvidos em um processo específico do sistema. Este diagrama oferece uma visão detalhada das trocas de mensagens e das ações realizadas pelos objetos de forma clara e concisa, facilitando a compreensão rápida do processo em questão.
 
-<div style="display: center; align-items: center;">
+<div align="center">
   ![](../../images/t2-Modelagem/DiagramaComunicacao.png)
+</div>
 
+<div style="display: center; align-items: center;">
   <div style="flex-grow: 1;">
     <h6 style="text-align: flex;">
     Figura 2 : Diagrama de Comunicação V1 (Fonte: Bruno Ribeiro, Bruno Bomfim e Igor Penha, 2023).
@@ -55,8 +57,12 @@ O primeiro diagrama de comunicação apresentado representa as interações din�
   </div>
 </div>
 
+
+<div align="center">
+  ![](../../images/t2-Modelagem/diagramaComunicacaoAmericanas.png)
+</div>
+
 <div style="display: center; align-items: center;">
-    ![](../../images/t2-Modelagem/diagramaComunicacaoAmericanas.png)
   <div style="flex-grow: 1;">
     <h6 style="text-align: flex;">
     Figura 3 : Diagrama de Comunicação V2 (Fonte: Bruno Ribeiro, Bruno Bomfim e Igor Penha, 2023).
