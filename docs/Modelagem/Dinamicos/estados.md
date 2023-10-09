@@ -32,7 +32,7 @@
 </div>
 
 <div align="center">
-<img src="../../images/t2-Modelagem/legenda-diagrama-estados.png" width="250px">
+  ![](../../images/t2-Modelagem/legenda-diagrama-estados.png)
 </div>
 
 <h4 align = "center"> Figura 1: Legenda dos Diagramas de Estados </h4>
@@ -43,13 +43,13 @@
 &emsp;&emsp;A priori, foram desenvolvidos dois diagramas, um que representa os possíveis estados da classe Produto (Figura 2) e outro que representa a classe Usuário (Figura 3), ambas classes retiradas do <a href="https://unbarqdsw2023-2.github.io/2023.2_G4_ProjetoAmericanas/#/Modelagem/classes.md">diagrama de classes</a> desenvolvido para essa entrega.
 </div>
 
-<img src="../../images/t2-Modelagem/diagrama-estados-produto.png">
+![](../../images/t2-Modelagem/diagrama-estados-produto.png)
 
 <h4 align = "center"> Figura 2: Diagrama de Estados do fluxo de Produto </h4>
 <p align = "center"> Fonte: Autoria própria </p>
 <p align = "center"> Autores: Lucas Gobbi; Rafael Bosi, 2023 </p>
 
-<img src="../../images/t2-Modelagem/diagrama-estados-usuario.jpeg">
+![](../../images/t2-Modelagem/diagrama-estados-usuario.jpeg)
 
 <h4 align = "center"> Figura 3: Diagrama de Estados do fluxo de Usuário </h4>
 <p align = "center"> Fonte: Autoria própria </p>
@@ -59,7 +59,7 @@
 &emsp;&emsp;Após conversas com a professora, e avanços em estudos individuais, o diagrama de estados referente ao fluxo do produto foi evoluído para a Figura 4, a qual consta também nela o fluxo referente aos estados da classe Pedido, além de algumas pequenas alterações em nomes de estados, para maior clareza deles.
 </div>
 
-<img src="../../images/t2-Modelagem/diagrama-estados-pedido.png">
+![](../../images/t2-Modelagem/diagrama-estados-pedido.png)
 
 <h4 align = "center"> Figura 4: Diagrama de Estados do fluxo de Produto e Pedido </h4>
 <p align = "center"> Fonte: Autoria própria </p>
