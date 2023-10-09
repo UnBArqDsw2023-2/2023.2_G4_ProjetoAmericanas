@@ -36,7 +36,7 @@ que também modificava o diagrama online, as ideias e possíveis modelagens fora
 ### 4.1 Legenda
 
 <div style="display: center; align-items: center;">.
-  ![](../../images/t2-Modelagem/legendaDiagramaDePacote.png)
+  <img title="Diagrama de Componentes" alt="Diagrama de componentes" src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G4_ProjetoAmericanas/main/docs/images/t2-Modelagem/legendaDiagramaDePacote.png" width="100%">
   <div style="flex-grow: 1;">
     <h6 style="text-align: flex;">
     Figura 1 : Legenda do Diagrama de Pacotes
@@ -47,7 +47,7 @@ que também modificava o diagrama online, as ideias e possíveis modelagens fora
 ### 4.2 Primeira versão do diagrama
 
 <div style="display: center; align-items: center;">
-  ![](../../images/t2-Modelagem/DiagramaPacotes.jpg)
+  <img title="Diagrama de Componentes" alt="Diagrama de componentes" src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G4_ProjetoAmericanas/main/docs/images/t2-Modelagem/DiagramaPacotes.jpg" width="100%">
   <div style="flex-grow: 1;">
     <h6 style="text-align: flex;">
     Figura 2 : Diagrama de Pacotes V1 (Fonte: Bernado Pissutti, Bruno Ribeiro, Bruno Bomfim, Igor Penha e Marcos Souza, 2023).
