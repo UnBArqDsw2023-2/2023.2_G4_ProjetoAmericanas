@@ -59,7 +59,7 @@
 &emsp;&emsp;Após discussões com a professora e a partir do seu feedback, o diagrama de estados que representa o fluxo do usuário foi aprimorado, resultando na Figura 4. Nessa versão alteramos o primeiro estado para a visualização da lista de produtos e também adicionamos descrições das transições dos estados.
 </div>
 
-<img src="../../images/t2-Modelagem/diagrama-estados-usuario-v2.jpg">
+<img src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G4_ProjetoAmericanas/main/docs/images/t2-Modelagem/diagrama-estados-usuario-v2.jpg" width="100%">
 
 <h4 align = "center"> Figura 4: Diagrama de Estados do fluxo de Usuário v2 </h4>
 <p align = "center"> Fonte: Autoria própria </p>
