@@ -28,7 +28,7 @@
 - **Modelagem**
   - [2. Desenho de Software (Modelagem)](Modelagem/2.Modelagem.md)
     - [2.1. Módulo Projeto Orientado a Abordagens Tradicionais](Modelagem/2.1.ModelagemTradicional.md)
-      - [2.1.1. Notação UML – Diagramas Estáticos](Modelagem/Estaticos/classes.md)
+      - [2.1.1. Notação UML – Diagramas Estáticos](Modelagem/2.1.1.UMLEstaticos.md)
         - [2.1.1.1. Diagrama de Classes](Modelagem/Estaticos/classes.md)
         - [2.1.1.2. Diagrama de Componentes](Modelagem/Estaticos/componentes.md)
         - [2.1.1.3. Diagrama de Pacotes](Modelagem/Estaticos/pacotes.md)
