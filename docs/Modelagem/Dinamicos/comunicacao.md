@@ -39,13 +39,11 @@ O artefato desenvolvido em questão foi desenvolvido para auxiliar no entediment
 fornece uma visão clara das mensagens e do fluxo.
 
 Dessa maneira, com a intenção de analisar o sistema e suas diferentes interações do seu fluxo desde o cadastro até a compra de um produto.
-Optamos por separar o fluxo em diferentes interações para facilitar a compreensão e melhorar o trabalho realizado, assim a divisão foi realizada em:
+Optamos por separar o fluxo em diferentes interações para facilitar a compreensão e melhorar o trabalho realizado.
 
-(**Adicionar as divisões dos diagramas ou trocar o texto a cima**)
+## UML - comunicação
 
-## (**Adicionar nome do diagrama**)
-
-(**Adicionar texto sobre o diagrama**)
+O primeiro diagrama de comunicação apresentado representa as interações dinâmicas entre os objetos envolvidos em um processo específico do sistema. Este diagrama oferece uma visão detalhada das trocas de mensagens e das ações realizadas pelos objetos de forma clara e concisa, facilitando a compreensão rápida do processo em questão.
 
 <div style="display: center; align-items: center;">
   <img src="../../images/t2-Modelagem/DiagramaComunicacao.png" alt="Diagrama de comunicação" style="margin-right: 20px;"/>
@@ -55,28 +53,12 @@ Optamos por separar o fluxo em diferentes interações para facilitar a compreen
     </h6>
   </div>
 </div>
-
-
-(**Adicionar nova versão do diagrama Bruno**)
-
-<div style="display: center; align-items: center;">
-  <img src="../../images/t2-Modelagem/DiagramaComunicacao.png" alt="Diagrama de comunicação" style="margin-right: 20px;"/>
-  <div style="flex-grow: 1;">
-    <h6 style="text-align: flex;">
-    Figura 2 : Diagrama de Comunicação V1 (Fonte: Bruno Ribeiro, Bruno Bomfim e Igor Penha, 2023).
-    </h6>
-  </div>
-</div>
-
-## (**Adicionar nome do diagrama**)
-
-(**Adicionar texto sobre o diagrama**)
 
 <div style="display: center; align-items: center;">
   <img src="../../images/t2-Modelagem/diagramaComunicacaoAmericanas.png" alt="Diagrama de comunicação" style="margin-right: 20px;"/>
   <div style="flex-grow: 1;">
     <h6 style="text-align: flex;">
-    Figura 2 : Diagrama de Comunicação V1 (Fonte: Bruno Ribeiro, Bruno Bomfim e Igor Penha, 2023).
+    Figura 3 : Diagrama de Comunicação V2 (Fonte: Bruno Ribeiro, Bruno Bomfim e Igor Penha, 2023).
     </h6>
   </div>
 </div>
@@ -93,8 +75,11 @@ A reunião de desenvolvimento do artefato foi gravada no Microsoft Teams e está
 
 ## Conclusão
 
-(**Adicionar conclusão**)
+Em resumo, os diagramas de comunicação apresentados neste artefato desempenham um papel crucial na documentação e na compreensão das interações dinâmicas do sistema. Eles foram desenvolvidos de forma colaborativa e seguindo padrões gráficos uniformes para garantir coesão visual.
 
+A gravação da reunião de desenvolvimento do artefato, disponibilizada no vídeo 1, oferece uma visão adicional do processo de criação dos diagramas, permitindo aos membros da equipe revisar as discussões e decisões tomadas durante a elaboração.
+
+Esses diagramas representam uma valiosa contribuição para o projeto, auxiliando na identificação de possíveis melhorias e no entendimento geral do sistema. Eles podem servir como referência para futuras etapas de desenvolvimento e manutenção.
 
 ## Referências
 
@@ -111,5 +96,6 @@ A reunião de desenvolvimento do artefato foi gravada no Microsoft Teams e está
 | :------: | :------------------: | :-----------: | :--------------: | :--------: | :-----------------: |
 | `1.0` | 26/09/2023 | Criação do artefato de diagrama de comunicação | [Igor Penha](https://github.com/igorpenhaa) | [Lucas Gobbi](https://github.com/lucasbergholz) | 27/09/2023 |
 | `1.1` | 05/10/2023 | Adição do diagrama de comunicação | [Igor Penha](https://github.com/igorpenhaa) | [Lucas Gobbi](https://github.com/lucasbergholz) | 05/10/2023 |
+| `1.2` | 08/10/2023 | Adição da conclusão e correções finais para a entrega | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | [Lucas Gobbi](https://github.com/lucasbergholz) | 08/10/2023 |
 
 </div>
