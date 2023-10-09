@@ -56,8 +56,6 @@ que também modificava o diagrama online, as ideias e possíveis modelagens fora
 </div>
 
 
-(**Adicionar a segunda versão com as correções da database com base no diagrama de classes**)
-
 ## 5. Estrutura do diagrama
 
 (**Adicionar a estrutura do diagrama explicando cada pacote**)
@@ -96,8 +94,13 @@ que também modificava o diagrama online, as ideias e possíveis modelagens fora
 
 ## 7. Conclusão
 
-(**Adicionar a conclusão**)
+Em conclusão, o diagrama de pacotes apresentado neste artefato representa uma visão estrutural importante do sistema em desenvolvimento. Ele oferece uma representação clara das diferentes camadas e módulos que compõem o sistema, destacando as interdependências entre eles. A colaboração da equipe, utilizando ferramentas como o Microsoft Teams e o LucidChart, foi essencial para a construção e evolução do diagrama ao longo da sprint.
 
+O diagrama de pacotes, dividido em categorias como Front-End, Back-End e Database, fornece uma visão geral da arquitetura do sistema, facilitando a compreensão de como os diferentes componentes se encaixam e se relacionam.
+
+Além disso, a gravação da reunião disponibilizada no vídeo 1 permite que os membros da equipe revisem as discussões e decisões tomadas durante o processo de modelagem do diagrama de pacotes, garantindo um registro valioso das deliberações.
+
+No geral, este artefato desempenha um papel fundamental na comunicação e documentação da estrutura arquitetônica do sistema, contribuindo para uma melhor compreensão por parte de todos os envolvidos no projeto. É um recurso valioso para orientar o desenvolvimento futuro e a manutenção do sistema.
 
 </div>
 
@@ -113,5 +116,6 @@ que também modificava o diagrama online, as ideias e possíveis modelagens fora
 |    `1.0`    |    25/09/2023   |  Criando documento  |  [Igor Penha](https://github.com/igorpenhaa)   |   |  |
 |    `1.1`    |    29/09/2023   |  Adição de legenda do artefato  |  [Bernardo Pissutti](https://github.com/berssutti)   |   |  |
 |    `1.3`    |    03/09/2023   |  Adição do diagrama e melhorando o escopo |  [Igor Penha](https://github.com/igorpenhaa)   |   |  |
+|    `1.4`    |    08/09/2023   |  Adição da conclusão e correções finais para entrega. |  [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | [Igor Penha](https://github.com/igorpenhaa) | 08/09/2023 |
 
 </div>
