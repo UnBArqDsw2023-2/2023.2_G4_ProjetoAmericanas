@@ -1,6 +1,6 @@
-<div class="body">
-  
 # Diagrama de pacotes
+
+<div class="body">
 
 ## 1. Introdução
 
