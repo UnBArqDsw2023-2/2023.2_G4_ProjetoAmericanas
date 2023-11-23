@@ -55,6 +55,7 @@ Ficou decidido na reunião, que as atividades individuais seguiriam o que está 
 <div align="center">
 <p> <b>Vídeo 1</b>: gravação da reunião 3 (Fonte: Grupo. 2023).</p>
 
+</div>
 
 ## Bibliografia
 [1] TEAMS. Disponível em: [TEAMS](https://teams.microsoft.com/). Acesso em: 13 de Abril de 2023.
