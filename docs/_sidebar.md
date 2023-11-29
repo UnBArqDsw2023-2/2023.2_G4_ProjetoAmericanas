@@ -2,7 +2,6 @@
 ![](https://logodownload.org/wp-content/uploads/2020/11/lojas-americanas-logo-1.png)
 
 - [Home](/)
-- [Diretrizes](Diretrizes/Diretrizes.md)
 - Atas de Reunião
   - [Reunião 1](Atas/reuniao01.md)
   - [Reunião 2](Atas/reuniao02.md)
