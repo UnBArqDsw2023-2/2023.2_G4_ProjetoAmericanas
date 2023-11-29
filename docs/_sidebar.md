@@ -5,9 +5,10 @@
 - [Diretrizes](Diretrizes/Diretrizes.md)
 - Atas de Reunião
   - [Reunião 1](Atas/reuniao01.md)
-
-- **Base**
-- [Diretrizes](/Diretrizes/Diretrizes.md)
+  - [Reunião 2](Atas/reuniao02.md)
+  - [Reunião 3](Atas/reuniao03.md)
+  - [Reunião 4](Atas/reuniao04.md)
+  - [Reunião 5](Atas/reuniao05.md)
 
 - **Base**
   - [1. Desenho de Software (Base)](/Base/1.Base.md)
