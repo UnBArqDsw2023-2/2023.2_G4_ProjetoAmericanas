@@ -28,6 +28,15 @@
   <p> Autor: Marcos Felipe e Bernado Pissutti, 2023 </p>
 </div>
 
+
+<div align="center">
+
+  <img title="Diagrama de Componentes versão 2" alt="Diagrama de componentes v2" src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G4_ProjetoAmericanas/main/docs/images/t3-Arquitetura/componentes.png" width="100%">
+  <h4> Figura 1: Diagrama de Componentes versão 2</h4>
+  <p> Fonte: Autoria própria </p>
+  <p> Autor: Bruno Ribeiro, Igor Penha e Marcos Felipe, 2023 </p>
+</div>
+
 ## Gravação
 
 <p align="justify">
@@ -52,5 +61,6 @@ Ao final da reunião, realizamos uma revisão do diagrama, segmentando os subsis
 
 |  Versão  |   Data da alteração  |   Alteração  |  Responsável  |  Revisor  | Data de revisão |
 | :--------: | :--------------------: | :-----------: | :--------------: | :--------: | :-----------------: |
-|     1.0     |    08/09/2023   |  Criando documento  |  [Bernardo Pissutti](https://github.com/berssutti)   | [Marcos Felipe](https://github.com/marofelipe)  | 08/10/2023 |
-|     1.0     |    08/10/2023   |  Elaboração do artefato  |  [Bernardo Pissutti](https://github.com/berssutti), [Marcos Felipe](https://github.com/marofelipe)   | [Bernardo Pissutti](https://github.com/berssutti) | 08/10/2023 |
+|     `1.0`  |    08/09/2023   |  Criando documento  |  [Bernardo Pissutti](https://github.com/berssutti)   | [Marcos Felipe](https://github.com/marofelipe)  | 08/10/2023 |
+|     `1.1`  |    08/10/2023   |  Elaboração do artefato  |  [Bernardo Pissutti](https://github.com/berssutti), [Marcos Felipe](https://github.com/marofelipe)   | [Bernardo Pissutti](https://github.com/berssutti) | 08/10/2023 |
+|     `2.0`  |    30/11/2023   |  Correção do diagrama  |  [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Igor Penha](https://github.com/igorpenhaa) e [Marcos Felipe](https://github.com/marofelipe)   | [Bruno Martins](https://github.com/gitbmvb) | 30/11/2023 |
