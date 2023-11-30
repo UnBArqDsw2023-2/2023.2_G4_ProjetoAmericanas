@@ -20,3 +20,6 @@ O diagrama de comunicação (ou colaboração) é uma representação visual que
 Consulte o [diagrama de comunicação](../Modelagem/Dinamicos/comunicacao.md) do **Projeto Americanas**.
 
 ### 2.5 Diagrama de Componentes
+O diagrama de componentes é uma representação visual que oferece uma visão detalhada da estrutura física de um sistema de software, destacando os diferentes componentes do sistema, como bibliotecas, executáveis, arquivos ou módulos, e as relações entre eles. O diagrama de componentes é crucial para compreender a implementação real do software, ajudando na visualização da arquitetura física, na identificação de pontos de integração e na distribuição dos elementos no ambiente de execução.
+
+Consulte o [diagrama de componentes](../Modelagem/Estaticos/componentes.md) do **Projeto Americanas**.
