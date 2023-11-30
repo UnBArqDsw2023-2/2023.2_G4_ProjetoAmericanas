@@ -1,6 +1,6 @@
 from interfaces import InterfaceDeEnvioDeEmail
 
-class AdapterEmail(InterfaceDeEnvioDeEmail):
+class Adapter(InterfaceDeEnvioDeEmail):
     def __init__(self, adaptee):
         self.adaptee = adaptee
     
