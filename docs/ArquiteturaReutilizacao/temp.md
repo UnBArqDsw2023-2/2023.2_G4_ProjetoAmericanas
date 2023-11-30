@@ -15,5 +15,8 @@ O diagrama de estados é uma representação visual que descreve o comportamento
 Consulte o [diagrama de estados](../Modelagem/Dinamicos/estados.md) do **Projeto Americanas**.
 
 ### 2.4 Diagrama de comunicação
+O diagrama de comunicação (ou colaboração) é uma representação visual que destaca as interações entre objetos em um sistema, focando nas mensagens trocadas entre os objetos e nos relacionamentos dinâmicos que ocorrem durante a execução do sistema. Ele é importante para entender as dinâmicas do sistema e é utilizado na fase de design para visualizar e comunicar as interações entre objetos, contribuindo para um desenvolvimento de software mais claro e eficiente.
+
+Consulte o [diagrama de comunicação](../Modelagem/Dinamicos/comunicacao.md) do **Projeto Americanas**.
 
 ### 2.5 Diagrama de Componentes
