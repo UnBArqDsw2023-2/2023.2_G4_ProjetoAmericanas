@@ -56,6 +56,6 @@ Infelizmente, a gravação dessa reunião foi conrrompida e por esse motivo não
 
 |  Versão  |   Data da alteração  |   Alteração  |  Responsável  |  Revisor  | Data de revisão |
 | :------: | :------------------: | :-----------: | :--------------: | :--------: | :-----------------: |
-| `1.0` | 19/09/2023 | Criação da 3ª ata | [Igor Penha](https://github.com/igorpenhaa) | [Bruno Ribeiro](https://github.com/brunoriibeiro) | 19/09/2023 |
+| `1.0` | 19/09/2023 | Criação da 4ª ata | [Igor Penha](https://github.com/igorpenhaa) | [Bruno Ribeiro](https://github.com/brunoriibeiro) | 19/09/2023 |
 
 </div>
