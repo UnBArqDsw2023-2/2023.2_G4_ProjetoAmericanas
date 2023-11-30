@@ -10,6 +10,9 @@ O diagrama de pacotes visa organizar e estruturar um sistema de software em mód
 Consulte o [diagrama de pacotes](../Modelagem/Estaticos/pacotes.md) do **Projeto Americanas**.
 
 ### 2.3 Diagrama de estados
+O diagrama de estados é uma representação visual que descreve o comportamento dinâmico de um objeto ou sistema ao longo do tempo. Ele foca nos diferentes estados que um objeto pode assumir e nas transições entre esses estados em resposta a eventos específicos. Ele é valioso no design de software para compreender e visualizar as possíveis sequências de eventos que afetam o comportamento de um sistema, facilitando a identificação de casos de uso e contribuindo para a implementação robusta e eficiente de sistemas dinâmicos.
+
+Consulte o [diagrama de estados](../Modelagem/Dinamicos/estados.md) do **Projeto Americanas**.
 
 ### 2.4 Diagrama de comunicação
 
