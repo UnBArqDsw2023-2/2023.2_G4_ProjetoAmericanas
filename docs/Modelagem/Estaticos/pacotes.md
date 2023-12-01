@@ -47,10 +47,21 @@ que também modificava o diagrama online, as ideias e possíveis modelagens fora
 ### Primeira versão do diagrama
 
 <div style="display: center; align-items: center;">
-  <img title="Diagrama de Componentes" alt="Diagrama de componentes" src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G4_ProjetoAmericanas/main/docs/images/t2-Modelagem/DiagramaPacotes.jpg" width="100%">
+  <img title="Diagrama de Pacotes" alt="Diagrama de pacotes" src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G4_ProjetoAmericanas/main/docs/images/t2-Modelagem/DiagramaPacotes.jpg" width="100%">
   <div style="flex-grow: 1;">
     <h6 style="text-align: flex;">
     Figura 2 : Diagrama de Pacotes V1 (Fonte: Bernado Pissutti, Bruno Ribeiro, Bruno Bomfim, Igor Penha e Marcos Souza, 2023).
+    </h6>
+  </div>
+</div>
+
+### Segunda versão do diagrama
+
+<div style="display: center; align-items: center;">
+  <img title="Diagrama de pacotes" alt="Diagrama de pacotes" src="../../images/t2-Modelagem/diagrama-pacotes-v2.jpeg" width="100%">
+  <div style="flex-grow: 1;">
+    <h6 style="text-align: flex;">
+    Figura 3 : Diagrama de Pacotes V1 (Fonte: Bernado Pissutti, Bruno Ribeiro, Bruno Bomfim, Igor Penha e Marcos Souza, 2023).
     </h6>
   </div>
 </div>
