@@ -2,7 +2,7 @@
 
 <div class="body">
 
-## 1. Introdução
+## Introdução
 
 <div align="justify">
 
@@ -12,7 +12,7 @@ Este tipo de diagrama é frequentemente empregado como meio para representar a e
 Cabe mencionar que um pacote, neste contexto, corresponde a uma unidade de agregação que engloba elementos relacionados no âmbito da UML, incluindo, 
 mas não se limitando a, diagramas, documentos, classes e, eventualmente, outros pacotes.
 
-## 2. Participantes
+## Participantes
 
 Os participantes que participaram do desenvolvimento desse artefato foram:
 
@@ -22,18 +22,18 @@ Os participantes que participaram do desenvolvimento desse artefato foram:
 - Igor Penha
 - Marcos Souza
 
-## 3. Metodologia
+## Metodologia
 
 O artefato foi desenvolvido em conjunto utilizando a ferramenta Microsoft Teams para reunião e para modelagem a ferramenta LucidChart. 
 Para o desenvolvimento em conjunto, um membro do grupo compartilhou a tela da ferramenta de modelagem, e com o auxílio do restante do grupo, 
 que também modificava o diagrama online, as ideias e possíveis modelagens foram discutidas. E, assim, foi evoluindo o artefatp ao longo da sprint
 
 
-## 4. Artefato
+## Artefato
 
 &emsp;&emsp;A equipe se reuniu e, juntamente, começou a construir o artefato que seria o diagrama de pacote, inicialmente, a gente tentou modelar quais seriam os tipos de organização de pastas que estaríamos buscando, com uma dica que foi dada pela professora, dividimos em dois grandes modelos principais, Client e Application, o Client é a camada que mostra como o usuário se conecta com a aplicação, no caso, ou por web ou por mobile. Já o módulo Application, foi dividido nos modelos frontend, que continha os pacotes necessários para a criação de telas e manuseio básico de dados, backend, que continha as suas camadas e a conexão externa com o banco de dados, ainda sem modelagem.
 
-### 4.1 Legenda
+### Legenda
 
 <div style="display: center; align-items: center;">.
   <img title="Diagrama de Componentes" alt="Diagrama de componentes" src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G4_ProjetoAmericanas/main/docs/images/t2-Modelagem/legendaDiagramaDePacote.png" width="100%">
@@ -44,10 +44,10 @@ que também modificava o diagrama online, as ideias e possíveis modelagens fora
   </div>
 </div>
 
-### 4.2 Primeira versão do diagrama
+### Primeira versão do diagrama
 
 <div style="display: center; align-items: center;">
-  <img title="Diagrama de Componentes" alt="Diagrama de componentes" src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G4_ProjetoAmericanas/main/docs/images/t2-Modelagem/DiagramaPacotes.jpg" width="100%">
+  <img title="Diagrama de Pacotes" alt="Diagrama de pacotes" src="https://raw.githubusercontent.com/UnBArqDsw2023-2/2023.2_G4_ProjetoAmericanas/main/docs/images/t2-Modelagem/DiagramaPacotes.jpg" width="100%">
   <div style="flex-grow: 1;">
     <h6 style="text-align: flex;">
     Figura 2 : Diagrama de Pacotes V1 (Fonte: Bernado Pissutti, Bruno Ribeiro, Bruno Bomfim, Igor Penha e Marcos Souza, 2023).
@@ -55,8 +55,19 @@ que também modificava o diagrama online, as ideias e possíveis modelagens fora
   </div>
 </div>
 
+### Segunda versão do diagrama
 
-## 5. Estrutura do diagrama
+<div style="display: center; align-items: center;">
+  <img title="Diagrama de pacotes" alt="Diagrama de pacotes" src="../../images/t2-Modelagem/diagrama-pacotes-v2.jpeg" width="100%">
+  <div style="flex-grow: 1;">
+    <h6 style="text-align: flex;">
+    Figura 3 : Diagrama de Pacotes V1 (Fonte: Bernado Pissutti, Bruno Ribeiro, Bruno Bomfim, Igor Penha e Marcos Souza, 2023).
+    </h6>
+  </div>
+</div>
+
+
+## Estrutura do diagrama
 
 &emsp;&emsp; A estrtura do diagrama foi dividida em camadas que irão ser explicadas a seguir:
 
@@ -86,14 +97,14 @@ que também modificava o diagrama online, as ideias e possíveis modelagens fora
 
 A camada de banco de dados armazena e gerencia os dados do sistema. Ela inclui tabelas, esquemas e procedimentos de acesso aos dados. Essa camada é fundamental para a persistência e recuperação das informações utilizadas pelo sistema.
 
-## 6. Gravação da reunião
+## Gravação da reunião
 
 <iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/_w_TTuf8hv8" title="reunião de execução do diagrama de pacotes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <div align="center">
 <p> <b>Vídeo 1</b>: gravação da execução do diagrama de pacotes (Fonte: Grupo. 2023).</p>
 </div>
 
-## 7. Conclusão
+## Conclusão
 
 Em conclusão, o diagrama de pacotes apresentado neste artefato representa uma visão estrutural importante do sistema em desenvolvimento. Ele oferece uma representação clara das diferentes camadas e módulos que compõem o sistema, destacando as interdependências entre eles. A colaboração da equipe, utilizando ferramentas como o Microsoft Teams e o LucidChart, foi essencial para a construção e evolução do diagrama ao longo da sprint.
 
